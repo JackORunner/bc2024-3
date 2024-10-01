@@ -1,0 +1,2729 @@
+[
+{ 
+"exchangedate":"23.01.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.331,"units":1,"rate_per_unit":24.331,"group":"1","calcdate":"22.01.2020"
+ }
+,{ 
+"exchangedate":"24.01.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.5212,"units":1,"rate_per_unit":24.5212,"group":"1","calcdate":"23.01.2020"
+ }
+,{ 
+"exchangedate":"25.01.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.5212,"units":1,"rate_per_unit":24.5212,"group":"1","calcdate":"23.01.2020"
+ }
+,{ 
+"exchangedate":"26.01.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.5212,"units":1,"rate_per_unit":24.5212,"group":"1","calcdate":"23.01.2020"
+ }
+,{ 
+"exchangedate":"27.01.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.3301,"units":1,"rate_per_unit":24.3301,"group":"1","calcdate":"24.01.2020"
+ }
+,{ 
+"exchangedate":"28.01.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.5984,"units":1,"rate_per_unit":24.5984,"group":"1","calcdate":"27.01.2020"
+ }
+,{ 
+"exchangedate":"29.01.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.7204,"units":1,"rate_per_unit":24.7204,"group":"1","calcdate":"28.01.2020"
+ }
+,{ 
+"exchangedate":"30.01.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.8491,"units":1,"rate_per_unit":24.8491,"group":"1","calcdate":"29.01.2020"
+ }
+,{ 
+"exchangedate":"31.01.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.9196,"units":1,"rate_per_unit":24.9196,"group":"1","calcdate":"30.01.2020"
+ }
+,{ 
+"exchangedate":"01.02.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.9196,"units":1,"rate_per_unit":24.9196,"group":"1","calcdate":"30.01.2020"
+ }
+,{ 
+"exchangedate":"02.02.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.9196,"units":1,"rate_per_unit":24.9196,"group":"1","calcdate":"30.01.2020"
+ }
+,{ 
+"exchangedate":"03.02.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":25.0294,"units":1,"rate_per_unit":25.0294,"group":"1","calcdate":"31.01.2020"
+ }
+,{ 
+"exchangedate":"04.02.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":25.0836,"units":1,"rate_per_unit":25.0836,"group":"1","calcdate":"03.02.2020"
+ }
+,{ 
+"exchangedate":"05.02.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.8523,"units":1,"rate_per_unit":24.8523,"group":"1","calcdate":"04.02.2020"
+ }
+,{ 
+"exchangedate":"06.02.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.7959,"units":1,"rate_per_unit":24.7959,"group":"1","calcdate":"05.02.2020"
+ }
+,{ 
+"exchangedate":"07.02.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.5794,"units":1,"rate_per_unit":24.5794,"group":"1","calcdate":"06.02.2020"
+ }
+,{ 
+"exchangedate":"08.02.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.5794,"units":1,"rate_per_unit":24.5794,"group":"1","calcdate":"06.02.2020"
+ }
+,{ 
+"exchangedate":"09.02.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.5794,"units":1,"rate_per_unit":24.5794,"group":"1","calcdate":"06.02.2020"
+ }
+,{ 
+"exchangedate":"10.02.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.537,"units":1,"rate_per_unit":24.537,"group":"1","calcdate":"07.02.2020"
+ }
+,{ 
+"exchangedate":"11.02.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.5188,"units":1,"rate_per_unit":24.5188,"group":"1","calcdate":"10.02.2020"
+ }
+,{ 
+"exchangedate":"12.02.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.4236,"units":1,"rate_per_unit":24.4236,"group":"1","calcdate":"11.02.2020"
+ }
+,{ 
+"exchangedate":"13.02.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.4966,"units":1,"rate_per_unit":24.4966,"group":"1","calcdate":"12.02.2020"
+ }
+,{ 
+"exchangedate":"14.02.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.4795,"units":1,"rate_per_unit":24.4795,"group":"1","calcdate":"13.02.2020"
+ }
+,{ 
+"exchangedate":"15.02.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.4795,"units":1,"rate_per_unit":24.4795,"group":"1","calcdate":"13.02.2020"
+ }
+,{ 
+"exchangedate":"16.02.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.4795,"units":1,"rate_per_unit":24.4795,"group":"1","calcdate":"13.02.2020"
+ }
+,{ 
+"exchangedate":"17.02.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.447,"units":1,"rate_per_unit":24.447,"group":"1","calcdate":"14.02.2020"
+ }
+,{ 
+"exchangedate":"18.02.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.4456,"units":1,"rate_per_unit":24.4456,"group":"1","calcdate":"17.02.2020"
+ }
+,{ 
+"exchangedate":"19.02.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.4431,"units":1,"rate_per_unit":24.4431,"group":"1","calcdate":"18.02.2020"
+ }
+,{ 
+"exchangedate":"20.02.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.5231,"units":1,"rate_per_unit":24.5231,"group":"1","calcdate":"19.02.2020"
+ }
+,{ 
+"exchangedate":"21.02.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.4777,"units":1,"rate_per_unit":24.4777,"group":"1","calcdate":"20.02.2020"
+ }
+,{ 
+"exchangedate":"22.02.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.4777,"units":1,"rate_per_unit":24.4777,"group":"1","calcdate":"20.02.2020"
+ }
+,{ 
+"exchangedate":"23.02.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.4777,"units":1,"rate_per_unit":24.4777,"group":"1","calcdate":"20.02.2020"
+ }
+,{ 
+"exchangedate":"24.02.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.453,"units":1,"rate_per_unit":24.453,"group":"1","calcdate":"21.02.2020"
+ }
+,{ 
+"exchangedate":"25.02.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.4995,"units":1,"rate_per_unit":24.4995,"group":"1","calcdate":"24.02.2020"
+ }
+,{ 
+"exchangedate":"26.02.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.5307,"units":1,"rate_per_unit":24.5307,"group":"1","calcdate":"25.02.2020"
+ }
+,{ 
+"exchangedate":"27.02.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.649,"units":1,"rate_per_unit":24.649,"group":"1","calcdate":"26.02.2020"
+ }
+,{ 
+"exchangedate":"28.02.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.561,"units":1,"rate_per_unit":24.561,"group":"1","calcdate":"27.02.2020"
+ }
+,{ 
+"exchangedate":"29.02.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.561,"units":1,"rate_per_unit":24.561,"group":"1","calcdate":"27.02.2020"
+ }
+,{ 
+"exchangedate":"01.03.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.561,"units":1,"rate_per_unit":24.561,"group":"1","calcdate":"27.02.2020"
+ }
+,{ 
+"exchangedate":"02.03.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.59,"units":1,"rate_per_unit":24.59,"group":"1","calcdate":"28.02.2020"
+ }
+,{ 
+"exchangedate":"03.03.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.818,"units":1,"rate_per_unit":24.818,"group":"1","calcdate":"02.03.2020"
+ }
+,{ 
+"exchangedate":"04.03.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.9386,"units":1,"rate_per_unit":24.9386,"group":"1","calcdate":"03.03.2020"
+ }
+,{ 
+"exchangedate":"05.03.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.8908,"units":1,"rate_per_unit":24.8908,"group":"1","calcdate":"04.03.2020"
+ }
+,{ 
+"exchangedate":"06.03.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.7413,"units":1,"rate_per_unit":24.7413,"group":"1","calcdate":"05.03.2020"
+ }
+,{ 
+"exchangedate":"07.03.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.7413,"units":1,"rate_per_unit":24.7413,"group":"1","calcdate":"05.03.2020"
+ }
+,{ 
+"exchangedate":"08.03.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.7413,"units":1,"rate_per_unit":24.7413,"group":"1","calcdate":"05.03.2020"
+ }
+,{ 
+"exchangedate":"09.03.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.7413,"units":1,"rate_per_unit":24.7413,"group":"1","calcdate":"05.03.2020"
+ }
+,{ 
+"exchangedate":"10.03.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":24.9215,"units":1,"rate_per_unit":24.9215,"group":"1","calcdate":"06.03.2020"
+ }
+,{ 
+"exchangedate":"11.03.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":25.3135,"units":1,"rate_per_unit":25.3135,"group":"1","calcdate":"10.03.2020"
+ }
+,{ 
+"exchangedate":"12.03.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":25.624,"units":1,"rate_per_unit":25.624,"group":"1","calcdate":"11.03.2020"
+ }
+,{ 
+"exchangedate":"13.03.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":25.858,"units":1,"rate_per_unit":25.858,"group":"1","calcdate":"12.03.2020"
+ }
+,{ 
+"exchangedate":"14.03.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":25.858,"units":1,"rate_per_unit":25.858,"group":"1","calcdate":"12.03.2020"
+ }
+,{ 
+"exchangedate":"15.03.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":25.858,"units":1,"rate_per_unit":25.858,"group":"1","calcdate":"12.03.2020"
+ }
+,{ 
+"exchangedate":"16.03.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.089,"units":1,"rate_per_unit":26.089,"group":"1","calcdate":"13.03.2020"
+ }
+,{ 
+"exchangedate":"17.03.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.5249,"units":1,"rate_per_unit":26.5249,"group":"1","calcdate":"16.03.2020"
+ }
+,{ 
+"exchangedate":"18.03.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.0566,"units":1,"rate_per_unit":27.0566,"group":"1","calcdate":"17.03.2020"
+ }
+,{ 
+"exchangedate":"19.03.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2685,"units":1,"rate_per_unit":27.2685,"group":"1","calcdate":"18.03.2020"
+ }
+,{ 
+"exchangedate":"20.03.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8025,"units":1,"rate_per_unit":27.8025,"group":"1","calcdate":"19.03.2020"
+ }
+,{ 
+"exchangedate":"21.03.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8025,"units":1,"rate_per_unit":27.8025,"group":"1","calcdate":"19.03.2020"
+ }
+,{ 
+"exchangedate":"22.03.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8025,"units":1,"rate_per_unit":27.8025,"group":"1","calcdate":"19.03.2020"
+ }
+,{ 
+"exchangedate":"23.03.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.7386,"units":1,"rate_per_unit":27.7386,"group":"1","calcdate":"20.03.2020"
+ }
+,{ 
+"exchangedate":"24.03.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.1126,"units":1,"rate_per_unit":28.1126,"group":"1","calcdate":"23.03.2020"
+ }
+,{ 
+"exchangedate":"25.03.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.7728,"units":1,"rate_per_unit":27.7728,"group":"1","calcdate":"24.03.2020"
+ }
+,{ 
+"exchangedate":"26.03.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.9552,"units":1,"rate_per_unit":27.9552,"group":"1","calcdate":"25.03.2020"
+ }
+,{ 
+"exchangedate":"27.03.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.1381,"units":1,"rate_per_unit":28.1381,"group":"1","calcdate":"26.03.2020"
+ }
+,{ 
+"exchangedate":"28.03.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.1381,"units":1,"rate_per_unit":28.1381,"group":"1","calcdate":"26.03.2020"
+ }
+,{ 
+"exchangedate":"29.03.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.1381,"units":1,"rate_per_unit":28.1381,"group":"1","calcdate":"26.03.2020"
+ }
+,{ 
+"exchangedate":"30.03.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.183,"units":1,"rate_per_unit":28.183,"group":"1","calcdate":"27.03.2020"
+ }
+,{ 
+"exchangedate":"31.03.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.0615,"units":1,"rate_per_unit":28.0615,"group":"1","calcdate":"30.03.2020"
+ }
+,{ 
+"exchangedate":"01.04.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.6289,"units":1,"rate_per_unit":27.6289,"group":"1","calcdate":"31.03.2020"
+ }
+,{ 
+"exchangedate":"02.04.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.7538,"units":1,"rate_per_unit":27.7538,"group":"1","calcdate":"01.04.2020"
+ }
+,{ 
+"exchangedate":"03.04.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.5962,"units":1,"rate_per_unit":27.5962,"group":"1","calcdate":"02.04.2020"
+ }
+,{ 
+"exchangedate":"04.04.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.5962,"units":1,"rate_per_unit":27.5962,"group":"1","calcdate":"02.04.2020"
+ }
+,{ 
+"exchangedate":"05.04.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.5962,"units":1,"rate_per_unit":27.5962,"group":"1","calcdate":"02.04.2020"
+ }
+,{ 
+"exchangedate":"06.04.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.373,"units":1,"rate_per_unit":27.373,"group":"1","calcdate":"03.04.2020"
+ }
+,{ 
+"exchangedate":"07.04.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2365,"units":1,"rate_per_unit":27.2365,"group":"1","calcdate":"06.04.2020"
+ }
+,{ 
+"exchangedate":"08.04.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.0996,"units":1,"rate_per_unit":27.0996,"group":"1","calcdate":"07.04.2020"
+ }
+,{ 
+"exchangedate":"09.04.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.1965,"units":1,"rate_per_unit":27.1965,"group":"1","calcdate":"08.04.2020"
+ }
+,{ 
+"exchangedate":"10.04.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2598,"units":1,"rate_per_unit":27.2598,"group":"1","calcdate":"09.04.2020"
+ }
+,{ 
+"exchangedate":"11.04.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2598,"units":1,"rate_per_unit":27.2598,"group":"1","calcdate":"09.04.2020"
+ }
+,{ 
+"exchangedate":"12.04.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2598,"units":1,"rate_per_unit":27.2598,"group":"1","calcdate":"09.04.2020"
+ }
+,{ 
+"exchangedate":"13.04.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2022,"units":1,"rate_per_unit":27.2022,"group":"1","calcdate":"10.04.2020"
+ }
+,{ 
+"exchangedate":"14.04.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.0404,"units":1,"rate_per_unit":27.0404,"group":"1","calcdate":"13.04.2020"
+ }
+,{ 
+"exchangedate":"15.04.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.0899,"units":1,"rate_per_unit":27.0899,"group":"1","calcdate":"14.04.2020"
+ }
+,{ 
+"exchangedate":"16.04.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2219,"units":1,"rate_per_unit":27.2219,"group":"1","calcdate":"15.04.2020"
+ }
+,{ 
+"exchangedate":"17.04.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2022,"units":1,"rate_per_unit":27.2022,"group":"1","calcdate":"16.04.2020"
+ }
+,{ 
+"exchangedate":"18.04.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2022,"units":1,"rate_per_unit":27.2022,"group":"1","calcdate":"16.04.2020"
+ }
+,{ 
+"exchangedate":"19.04.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2022,"units":1,"rate_per_unit":27.2022,"group":"1","calcdate":"16.04.2020"
+ }
+,{ 
+"exchangedate":"20.04.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2022,"units":1,"rate_per_unit":27.2022,"group":"1","calcdate":"16.04.2020"
+ }
+,{ 
+"exchangedate":"21.04.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.0774,"units":1,"rate_per_unit":27.0774,"group":"1","calcdate":"17.04.2020"
+ }
+,{ 
+"exchangedate":"22.04.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.0815,"units":1,"rate_per_unit":27.0815,"group":"1","calcdate":"21.04.2020"
+ }
+,{ 
+"exchangedate":"23.04.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.0536,"units":1,"rate_per_unit":27.0536,"group":"1","calcdate":"22.04.2020"
+ }
+,{ 
+"exchangedate":"24.04.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.0137,"units":1,"rate_per_unit":27.0137,"group":"1","calcdate":"23.04.2020"
+ }
+,{ 
+"exchangedate":"25.04.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.0137,"units":1,"rate_per_unit":27.0137,"group":"1","calcdate":"23.04.2020"
+ }
+,{ 
+"exchangedate":"26.04.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.0137,"units":1,"rate_per_unit":27.0137,"group":"1","calcdate":"23.04.2020"
+ }
+,{ 
+"exchangedate":"27.04.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.1441,"units":1,"rate_per_unit":27.1441,"group":"1","calcdate":"24.04.2020"
+ }
+,{ 
+"exchangedate":"28.04.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.1025,"units":1,"rate_per_unit":27.1025,"group":"1","calcdate":"27.04.2020"
+ }
+,{ 
+"exchangedate":"29.04.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.0485,"units":1,"rate_per_unit":27.0485,"group":"1","calcdate":"28.04.2020"
+ }
+,{ 
+"exchangedate":"30.04.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.9714,"units":1,"rate_per_unit":26.9714,"group":"1","calcdate":"29.04.2020"
+ }
+,{ 
+"exchangedate":"01.05.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.9714,"units":1,"rate_per_unit":26.9714,"group":"1","calcdate":"29.04.2020"
+ }
+,{ 
+"exchangedate":"02.05.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.9714,"units":1,"rate_per_unit":26.9714,"group":"1","calcdate":"29.04.2020"
+ }
+,{ 
+"exchangedate":"03.05.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.9714,"units":1,"rate_per_unit":26.9714,"group":"1","calcdate":"29.04.2020"
+ }
+,{ 
+"exchangedate":"04.05.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.9592,"units":1,"rate_per_unit":26.9592,"group":"1","calcdate":"30.04.2020"
+ }
+,{ 
+"exchangedate":"05.05.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.9749,"units":1,"rate_per_unit":26.9749,"group":"1","calcdate":"04.05.2020"
+ }
+,{ 
+"exchangedate":"06.05.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.9774,"units":1,"rate_per_unit":26.9774,"group":"1","calcdate":"05.05.2020"
+ }
+,{ 
+"exchangedate":"07.05.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.9323,"units":1,"rate_per_unit":26.9323,"group":"1","calcdate":"06.05.2020"
+ }
+,{ 
+"exchangedate":"08.05.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.8185,"units":1,"rate_per_unit":26.8185,"group":"1","calcdate":"07.05.2020"
+ }
+,{ 
+"exchangedate":"09.05.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.8185,"units":1,"rate_per_unit":26.8185,"group":"1","calcdate":"07.05.2020"
+ }
+,{ 
+"exchangedate":"10.05.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.8185,"units":1,"rate_per_unit":26.8185,"group":"1","calcdate":"07.05.2020"
+ }
+,{ 
+"exchangedate":"11.05.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.8185,"units":1,"rate_per_unit":26.8185,"group":"1","calcdate":"07.05.2020"
+ }
+,{ 
+"exchangedate":"12.05.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.8196,"units":1,"rate_per_unit":26.8196,"group":"1","calcdate":"08.05.2020"
+ }
+,{ 
+"exchangedate":"13.05.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.7947,"units":1,"rate_per_unit":26.7947,"group":"1","calcdate":"12.05.2020"
+ }
+,{ 
+"exchangedate":"14.05.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.6897,"units":1,"rate_per_unit":26.6897,"group":"1","calcdate":"13.05.2020"
+ }
+,{ 
+"exchangedate":"15.05.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.6792,"units":1,"rate_per_unit":26.6792,"group":"1","calcdate":"14.05.2020"
+ }
+,{ 
+"exchangedate":"16.05.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.6792,"units":1,"rate_per_unit":26.6792,"group":"1","calcdate":"14.05.2020"
+ }
+,{ 
+"exchangedate":"17.05.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.6792,"units":1,"rate_per_unit":26.6792,"group":"1","calcdate":"14.05.2020"
+ }
+,{ 
+"exchangedate":"18.05.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.638,"units":1,"rate_per_unit":26.638,"group":"1","calcdate":"15.05.2020"
+ }
+,{ 
+"exchangedate":"19.05.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.571,"units":1,"rate_per_unit":26.571,"group":"1","calcdate":"18.05.2020"
+ }
+,{ 
+"exchangedate":"20.05.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.5159,"units":1,"rate_per_unit":26.5159,"group":"1","calcdate":"19.05.2020"
+ }
+,{ 
+"exchangedate":"21.05.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.5854,"units":1,"rate_per_unit":26.5854,"group":"1","calcdate":"20.05.2020"
+ }
+,{ 
+"exchangedate":"22.05.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.7699,"units":1,"rate_per_unit":26.7699,"group":"1","calcdate":"21.05.2020"
+ }
+,{ 
+"exchangedate":"23.05.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.7699,"units":1,"rate_per_unit":26.7699,"group":"1","calcdate":"21.05.2020"
+ }
+,{ 
+"exchangedate":"24.05.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.7699,"units":1,"rate_per_unit":26.7699,"group":"1","calcdate":"21.05.2020"
+ }
+,{ 
+"exchangedate":"25.05.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.7556,"units":1,"rate_per_unit":26.7556,"group":"1","calcdate":"22.05.2020"
+ }
+,{ 
+"exchangedate":"26.05.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.8742,"units":1,"rate_per_unit":26.8742,"group":"1","calcdate":"25.05.2020"
+ }
+,{ 
+"exchangedate":"27.05.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.9029,"units":1,"rate_per_unit":26.9029,"group":"1","calcdate":"26.05.2020"
+ }
+,{ 
+"exchangedate":"28.05.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.0002,"units":1,"rate_per_unit":27.0002,"group":"1","calcdate":"27.05.2020"
+ }
+,{ 
+"exchangedate":"29.05.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.9059,"units":1,"rate_per_unit":26.9059,"group":"1","calcdate":"28.05.2020"
+ }
+,{ 
+"exchangedate":"30.05.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.9059,"units":1,"rate_per_unit":26.9059,"group":"1","calcdate":"28.05.2020"
+ }
+,{ 
+"exchangedate":"31.05.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.9059,"units":1,"rate_per_unit":26.9059,"group":"1","calcdate":"28.05.2020"
+ }
+,{ 
+"exchangedate":"01.06.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.8685,"units":1,"rate_per_unit":26.8685,"group":"1","calcdate":"29.05.2020"
+ }
+,{ 
+"exchangedate":"02.06.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.8181,"units":1,"rate_per_unit":26.8181,"group":"1","calcdate":"01.06.2020"
+ }
+,{ 
+"exchangedate":"03.06.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.7955,"units":1,"rate_per_unit":26.7955,"group":"1","calcdate":"02.06.2020"
+ }
+,{ 
+"exchangedate":"04.06.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.7544,"units":1,"rate_per_unit":26.7544,"group":"1","calcdate":"03.06.2020"
+ }
+,{ 
+"exchangedate":"05.06.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.6953,"units":1,"rate_per_unit":26.6953,"group":"1","calcdate":"04.06.2020"
+ }
+,{ 
+"exchangedate":"06.06.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.6953,"units":1,"rate_per_unit":26.6953,"group":"1","calcdate":"04.06.2020"
+ }
+,{ 
+"exchangedate":"07.06.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.6953,"units":1,"rate_per_unit":26.6953,"group":"1","calcdate":"04.06.2020"
+ }
+,{ 
+"exchangedate":"08.06.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.6953,"units":1,"rate_per_unit":26.6953,"group":"1","calcdate":"04.06.2020"
+ }
+,{ 
+"exchangedate":"09.06.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.6005,"units":1,"rate_per_unit":26.6005,"group":"1","calcdate":"05.06.2020"
+ }
+,{ 
+"exchangedate":"10.06.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.6412,"units":1,"rate_per_unit":26.6412,"group":"1","calcdate":"09.06.2020"
+ }
+,{ 
+"exchangedate":"11.06.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.6367,"units":1,"rate_per_unit":26.6367,"group":"1","calcdate":"10.06.2020"
+ }
+,{ 
+"exchangedate":"12.06.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.5999,"units":1,"rate_per_unit":26.5999,"group":"1","calcdate":"11.06.2020"
+ }
+,{ 
+"exchangedate":"13.06.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.5999,"units":1,"rate_per_unit":26.5999,"group":"1","calcdate":"11.06.2020"
+ }
+,{ 
+"exchangedate":"14.06.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.5999,"units":1,"rate_per_unit":26.5999,"group":"1","calcdate":"11.06.2020"
+ }
+,{ 
+"exchangedate":"15.06.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.7303,"units":1,"rate_per_unit":26.7303,"group":"1","calcdate":"12.06.2020"
+ }
+,{ 
+"exchangedate":"16.06.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.844,"units":1,"rate_per_unit":26.844,"group":"1","calcdate":"15.06.2020"
+ }
+,{ 
+"exchangedate":"17.06.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.7424,"units":1,"rate_per_unit":26.7424,"group":"1","calcdate":"16.06.2020"
+ }
+,{ 
+"exchangedate":"18.06.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.776,"units":1,"rate_per_unit":26.776,"group":"1","calcdate":"17.06.2020"
+ }
+,{ 
+"exchangedate":"19.06.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.7633,"units":1,"rate_per_unit":26.7633,"group":"1","calcdate":"18.06.2020"
+ }
+,{ 
+"exchangedate":"20.06.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.7633,"units":1,"rate_per_unit":26.7633,"group":"1","calcdate":"18.06.2020"
+ }
+,{ 
+"exchangedate":"21.06.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.7633,"units":1,"rate_per_unit":26.7633,"group":"1","calcdate":"18.06.2020"
+ }
+,{ 
+"exchangedate":"22.06.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.7207,"units":1,"rate_per_unit":26.7207,"group":"1","calcdate":"19.06.2020"
+ }
+,{ 
+"exchangedate":"23.06.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.6695,"units":1,"rate_per_unit":26.6695,"group":"1","calcdate":"22.06.2020"
+ }
+,{ 
+"exchangedate":"24.06.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.6078,"units":1,"rate_per_unit":26.6078,"group":"1","calcdate":"23.06.2020"
+ }
+,{ 
+"exchangedate":"25.06.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.6509,"units":1,"rate_per_unit":26.6509,"group":"1","calcdate":"24.06.2020"
+ }
+,{ 
+"exchangedate":"26.06.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.7002,"units":1,"rate_per_unit":26.7002,"group":"1","calcdate":"25.06.2020"
+ }
+,{ 
+"exchangedate":"27.06.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.7002,"units":1,"rate_per_unit":26.7002,"group":"1","calcdate":"25.06.2020"
+ }
+,{ 
+"exchangedate":"28.06.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.7002,"units":1,"rate_per_unit":26.7002,"group":"1","calcdate":"25.06.2020"
+ }
+,{ 
+"exchangedate":"29.06.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.7002,"units":1,"rate_per_unit":26.7002,"group":"1","calcdate":"25.06.2020"
+ }
+,{ 
+"exchangedate":"30.06.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.6922,"units":1,"rate_per_unit":26.6922,"group":"1","calcdate":"26.06.2020"
+ }
+,{ 
+"exchangedate":"01.07.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.6676,"units":1,"rate_per_unit":26.6676,"group":"1","calcdate":"30.06.2020"
+ }
+,{ 
+"exchangedate":"02.07.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.77,"units":1,"rate_per_unit":26.77,"group":"1","calcdate":"01.07.2020"
+ }
+,{ 
+"exchangedate":"03.07.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.1801,"units":1,"rate_per_unit":27.1801,"group":"1","calcdate":"02.07.2020"
+ }
+,{ 
+"exchangedate":"04.07.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.1801,"units":1,"rate_per_unit":27.1801,"group":"1","calcdate":"02.07.2020"
+ }
+,{ 
+"exchangedate":"05.07.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.1801,"units":1,"rate_per_unit":27.1801,"group":"1","calcdate":"02.07.2020"
+ }
+,{ 
+"exchangedate":"06.07.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.1716,"units":1,"rate_per_unit":27.1716,"group":"1","calcdate":"03.07.2020"
+ }
+,{ 
+"exchangedate":"07.07.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.1269,"units":1,"rate_per_unit":27.1269,"group":"1","calcdate":"06.07.2020"
+ }
+,{ 
+"exchangedate":"08.07.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.9309,"units":1,"rate_per_unit":26.9309,"group":"1","calcdate":"07.07.2020"
+ }
+,{ 
+"exchangedate":"09.07.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.9514,"units":1,"rate_per_unit":26.9514,"group":"1","calcdate":"08.07.2020"
+ }
+,{ 
+"exchangedate":"10.07.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.9335,"units":1,"rate_per_unit":26.9335,"group":"1","calcdate":"09.07.2020"
+ }
+,{ 
+"exchangedate":"11.07.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.9335,"units":1,"rate_per_unit":26.9335,"group":"1","calcdate":"09.07.2020"
+ }
+,{ 
+"exchangedate":"12.07.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.9335,"units":1,"rate_per_unit":26.9335,"group":"1","calcdate":"09.07.2020"
+ }
+,{ 
+"exchangedate":"13.07.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.9505,"units":1,"rate_per_unit":26.9505,"group":"1","calcdate":"10.07.2020"
+ }
+,{ 
+"exchangedate":"14.07.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.0883,"units":1,"rate_per_unit":27.0883,"group":"1","calcdate":"13.07.2020"
+ }
+,{ 
+"exchangedate":"15.07.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.1436,"units":1,"rate_per_unit":27.1436,"group":"1","calcdate":"14.07.2020"
+ }
+,{ 
+"exchangedate":"16.07.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.119,"units":1,"rate_per_unit":27.119,"group":"1","calcdate":"15.07.2020"
+ }
+,{ 
+"exchangedate":"17.07.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2738,"units":1,"rate_per_unit":27.2738,"group":"1","calcdate":"16.07.2020"
+ }
+,{ 
+"exchangedate":"18.07.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2738,"units":1,"rate_per_unit":27.2738,"group":"1","calcdate":"16.07.2020"
+ }
+,{ 
+"exchangedate":"19.07.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2738,"units":1,"rate_per_unit":27.2738,"group":"1","calcdate":"16.07.2020"
+ }
+,{ 
+"exchangedate":"20.07.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.3606,"units":1,"rate_per_unit":27.3606,"group":"1","calcdate":"17.07.2020"
+ }
+,{ 
+"exchangedate":"21.07.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.6011,"units":1,"rate_per_unit":27.6011,"group":"1","calcdate":"20.07.2020"
+ }
+,{ 
+"exchangedate":"22.07.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.6647,"units":1,"rate_per_unit":27.6647,"group":"1","calcdate":"21.07.2020"
+ }
+,{ 
+"exchangedate":"23.07.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.7798,"units":1,"rate_per_unit":27.7798,"group":"1","calcdate":"22.07.2020"
+ }
+,{ 
+"exchangedate":"24.07.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8779,"units":1,"rate_per_unit":27.8779,"group":"1","calcdate":"23.07.2020"
+ }
+,{ 
+"exchangedate":"25.07.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8779,"units":1,"rate_per_unit":27.8779,"group":"1","calcdate":"23.07.2020"
+ }
+,{ 
+"exchangedate":"26.07.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8779,"units":1,"rate_per_unit":27.8779,"group":"1","calcdate":"23.07.2020"
+ }
+,{ 
+"exchangedate":"27.07.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.7559,"units":1,"rate_per_unit":27.7559,"group":"1","calcdate":"24.07.2020"
+ }
+,{ 
+"exchangedate":"28.07.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.7571,"units":1,"rate_per_unit":27.7571,"group":"1","calcdate":"27.07.2020"
+ }
+,{ 
+"exchangedate":"29.07.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.6851,"units":1,"rate_per_unit":27.6851,"group":"1","calcdate":"28.07.2020"
+ }
+,{ 
+"exchangedate":"30.07.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.6867,"units":1,"rate_per_unit":27.6867,"group":"1","calcdate":"29.07.2020"
+ }
+,{ 
+"exchangedate":"31.07.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.6913,"units":1,"rate_per_unit":27.6913,"group":"1","calcdate":"30.07.2020"
+ }
+,{ 
+"exchangedate":"01.08.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.6913,"units":1,"rate_per_unit":27.6913,"group":"1","calcdate":"30.07.2020"
+ }
+,{ 
+"exchangedate":"02.08.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.6913,"units":1,"rate_per_unit":27.6913,"group":"1","calcdate":"30.07.2020"
+ }
+,{ 
+"exchangedate":"03.08.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.6798,"units":1,"rate_per_unit":27.6798,"group":"1","calcdate":"31.07.2020"
+ }
+,{ 
+"exchangedate":"04.08.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.7365,"units":1,"rate_per_unit":27.7365,"group":"1","calcdate":"03.08.2020"
+ }
+,{ 
+"exchangedate":"05.08.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8225,"units":1,"rate_per_unit":27.8225,"group":"1","calcdate":"04.08.2020"
+ }
+,{ 
+"exchangedate":"06.08.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.7028,"units":1,"rate_per_unit":27.7028,"group":"1","calcdate":"05.08.2020"
+ }
+,{ 
+"exchangedate":"07.08.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.6793,"units":1,"rate_per_unit":27.6793,"group":"1","calcdate":"06.08.2020"
+ }
+,{ 
+"exchangedate":"08.08.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.6793,"units":1,"rate_per_unit":27.6793,"group":"1","calcdate":"06.08.2020"
+ }
+,{ 
+"exchangedate":"09.08.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.6793,"units":1,"rate_per_unit":27.6793,"group":"1","calcdate":"06.08.2020"
+ }
+,{ 
+"exchangedate":"10.08.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.6486,"units":1,"rate_per_unit":27.6486,"group":"1","calcdate":"07.08.2020"
+ }
+,{ 
+"exchangedate":"11.08.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.6007,"units":1,"rate_per_unit":27.6007,"group":"1","calcdate":"10.08.2020"
+ }
+,{ 
+"exchangedate":"12.08.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.5982,"units":1,"rate_per_unit":27.5982,"group":"1","calcdate":"11.08.2020"
+ }
+,{ 
+"exchangedate":"13.08.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.5266,"units":1,"rate_per_unit":27.5266,"group":"1","calcdate":"12.08.2020"
+ }
+,{ 
+"exchangedate":"14.08.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.4083,"units":1,"rate_per_unit":27.4083,"group":"1","calcdate":"13.08.2020"
+ }
+,{ 
+"exchangedate":"15.08.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.4083,"units":1,"rate_per_unit":27.4083,"group":"1","calcdate":"13.08.2020"
+ }
+,{ 
+"exchangedate":"16.08.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.4083,"units":1,"rate_per_unit":27.4083,"group":"1","calcdate":"13.08.2020"
+ }
+,{ 
+"exchangedate":"17.08.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.3474,"units":1,"rate_per_unit":27.3474,"group":"1","calcdate":"14.08.2020"
+ }
+,{ 
+"exchangedate":"18.08.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.3061,"units":1,"rate_per_unit":27.3061,"group":"1","calcdate":"17.08.2020"
+ }
+,{ 
+"exchangedate":"19.08.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2297,"units":1,"rate_per_unit":27.2297,"group":"1","calcdate":"18.08.2020"
+ }
+,{ 
+"exchangedate":"20.08.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.316,"units":1,"rate_per_unit":27.316,"group":"1","calcdate":"19.08.2020"
+ }
+,{ 
+"exchangedate":"21.08.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.4812,"units":1,"rate_per_unit":27.4812,"group":"1","calcdate":"20.08.2020"
+ }
+,{ 
+"exchangedate":"22.08.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.4812,"units":1,"rate_per_unit":27.4812,"group":"1","calcdate":"20.08.2020"
+ }
+,{ 
+"exchangedate":"23.08.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.4812,"units":1,"rate_per_unit":27.4812,"group":"1","calcdate":"20.08.2020"
+ }
+,{ 
+"exchangedate":"24.08.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.4812,"units":1,"rate_per_unit":27.4812,"group":"1","calcdate":"20.08.2020"
+ }
+,{ 
+"exchangedate":"25.08.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.3942,"units":1,"rate_per_unit":27.3942,"group":"1","calcdate":"21.08.2020"
+ }
+,{ 
+"exchangedate":"26.08.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.4383,"units":1,"rate_per_unit":27.4383,"group":"1","calcdate":"25.08.2020"
+ }
+,{ 
+"exchangedate":"27.08.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.386,"units":1,"rate_per_unit":27.386,"group":"1","calcdate":"26.08.2020"
+ }
+,{ 
+"exchangedate":"28.08.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.4615,"units":1,"rate_per_unit":27.4615,"group":"1","calcdate":"27.08.2020"
+ }
+,{ 
+"exchangedate":"29.08.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.4615,"units":1,"rate_per_unit":27.4615,"group":"1","calcdate":"27.08.2020"
+ }
+,{ 
+"exchangedate":"30.08.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.4615,"units":1,"rate_per_unit":27.4615,"group":"1","calcdate":"27.08.2020"
+ }
+,{ 
+"exchangedate":"31.08.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.4759,"units":1,"rate_per_unit":27.4759,"group":"1","calcdate":"28.08.2020"
+ }
+,{ 
+"exchangedate":"01.09.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.5618,"units":1,"rate_per_unit":27.5618,"group":"1","calcdate":"31.08.2020"
+ }
+,{ 
+"exchangedate":"02.09.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.6049,"units":1,"rate_per_unit":27.6049,"group":"1","calcdate":"01.09.2020"
+ }
+,{ 
+"exchangedate":"03.09.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.6428,"units":1,"rate_per_unit":27.6428,"group":"1","calcdate":"02.09.2020"
+ }
+,{ 
+"exchangedate":"04.09.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.6908,"units":1,"rate_per_unit":27.6908,"group":"1","calcdate":"03.09.2020"
+ }
+,{ 
+"exchangedate":"05.09.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.6908,"units":1,"rate_per_unit":27.6908,"group":"1","calcdate":"03.09.2020"
+ }
+,{ 
+"exchangedate":"06.09.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.6908,"units":1,"rate_per_unit":27.6908,"group":"1","calcdate":"03.09.2020"
+ }
+,{ 
+"exchangedate":"07.09.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.7325,"units":1,"rate_per_unit":27.7325,"group":"1","calcdate":"04.09.2020"
+ }
+,{ 
+"exchangedate":"08.09.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.7509,"units":1,"rate_per_unit":27.7509,"group":"1","calcdate":"07.09.2020"
+ }
+,{ 
+"exchangedate":"09.09.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8032,"units":1,"rate_per_unit":27.8032,"group":"1","calcdate":"08.09.2020"
+ }
+,{ 
+"exchangedate":"10.09.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8296,"units":1,"rate_per_unit":27.8296,"group":"1","calcdate":"09.09.2020"
+ }
+,{ 
+"exchangedate":"11.09.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8346,"units":1,"rate_per_unit":27.8346,"group":"1","calcdate":"10.09.2020"
+ }
+,{ 
+"exchangedate":"12.09.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8346,"units":1,"rate_per_unit":27.8346,"group":"1","calcdate":"10.09.2020"
+ }
+,{ 
+"exchangedate":"13.09.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8346,"units":1,"rate_per_unit":27.8346,"group":"1","calcdate":"10.09.2020"
+ }
+,{ 
+"exchangedate":"14.09.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.9003,"units":1,"rate_per_unit":27.9003,"group":"1","calcdate":"11.09.2020"
+ }
+,{ 
+"exchangedate":"15.09.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.0003,"units":1,"rate_per_unit":28.0003,"group":"1","calcdate":"14.09.2020"
+ }
+,{ 
+"exchangedate":"16.09.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.0556,"units":1,"rate_per_unit":28.0556,"group":"1","calcdate":"15.09.2020"
+ }
+,{ 
+"exchangedate":"17.09.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.1195,"units":1,"rate_per_unit":28.1195,"group":"1","calcdate":"16.09.2020"
+ }
+,{ 
+"exchangedate":"18.09.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.1127,"units":1,"rate_per_unit":28.1127,"group":"1","calcdate":"17.09.2020"
+ }
+,{ 
+"exchangedate":"19.09.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.1127,"units":1,"rate_per_unit":28.1127,"group":"1","calcdate":"17.09.2020"
+ }
+,{ 
+"exchangedate":"20.09.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.1127,"units":1,"rate_per_unit":28.1127,"group":"1","calcdate":"17.09.2020"
+ }
+,{ 
+"exchangedate":"21.09.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.1718,"units":1,"rate_per_unit":28.1718,"group":"1","calcdate":"18.09.2020"
+ }
+,{ 
+"exchangedate":"22.09.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.2022,"units":1,"rate_per_unit":28.2022,"group":"1","calcdate":"21.09.2020"
+ }
+,{ 
+"exchangedate":"23.09.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.2059,"units":1,"rate_per_unit":28.2059,"group":"1","calcdate":"22.09.2020"
+ }
+,{ 
+"exchangedate":"24.09.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.1874,"units":1,"rate_per_unit":28.1874,"group":"1","calcdate":"23.09.2020"
+ }
+,{ 
+"exchangedate":"25.09.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.2487,"units":1,"rate_per_unit":28.2487,"group":"1","calcdate":"24.09.2020"
+ }
+,{ 
+"exchangedate":"26.09.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.2487,"units":1,"rate_per_unit":28.2487,"group":"1","calcdate":"24.09.2020"
+ }
+,{ 
+"exchangedate":"27.09.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.2487,"units":1,"rate_per_unit":28.2487,"group":"1","calcdate":"24.09.2020"
+ }
+,{ 
+"exchangedate":"28.09.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.2673,"units":1,"rate_per_unit":28.2673,"group":"1","calcdate":"25.09.2020"
+ }
+,{ 
+"exchangedate":"29.09.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.3062,"units":1,"rate_per_unit":28.3062,"group":"1","calcdate":"28.09.2020"
+ }
+,{ 
+"exchangedate":"30.09.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.2989,"units":1,"rate_per_unit":28.2989,"group":"1","calcdate":"29.09.2020"
+ }
+,{ 
+"exchangedate":"01.10.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.3105,"units":1,"rate_per_unit":28.3105,"group":"1","calcdate":"30.09.2020"
+ }
+,{ 
+"exchangedate":"02.10.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.3343,"units":1,"rate_per_unit":28.3343,"group":"1","calcdate":"01.10.2020"
+ }
+,{ 
+"exchangedate":"03.10.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.3343,"units":1,"rate_per_unit":28.3343,"group":"1","calcdate":"01.10.2020"
+ }
+,{ 
+"exchangedate":"04.10.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.3343,"units":1,"rate_per_unit":28.3343,"group":"1","calcdate":"01.10.2020"
+ }
+,{ 
+"exchangedate":"05.10.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.3408,"units":1,"rate_per_unit":28.3408,"group":"1","calcdate":"02.10.2020"
+ }
+,{ 
+"exchangedate":"06.10.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.4009,"units":1,"rate_per_unit":28.4009,"group":"1","calcdate":"05.10.2020"
+ }
+,{ 
+"exchangedate":"07.10.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.3639,"units":1,"rate_per_unit":28.3639,"group":"1","calcdate":"06.10.2020"
+ }
+,{ 
+"exchangedate":"08.10.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.324,"units":1,"rate_per_unit":28.324,"group":"1","calcdate":"07.10.2020"
+ }
+,{ 
+"exchangedate":"09.10.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.2836,"units":1,"rate_per_unit":28.2836,"group":"1","calcdate":"08.10.2020"
+ }
+,{ 
+"exchangedate":"10.10.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.2836,"units":1,"rate_per_unit":28.2836,"group":"1","calcdate":"08.10.2020"
+ }
+,{ 
+"exchangedate":"11.10.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.2836,"units":1,"rate_per_unit":28.2836,"group":"1","calcdate":"08.10.2020"
+ }
+,{ 
+"exchangedate":"12.10.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.2098,"units":1,"rate_per_unit":28.2098,"group":"1","calcdate":"09.10.2020"
+ }
+,{ 
+"exchangedate":"13.10.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.2481,"units":1,"rate_per_unit":28.2481,"group":"1","calcdate":"12.10.2020"
+ }
+,{ 
+"exchangedate":"14.10.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.2481,"units":1,"rate_per_unit":28.2481,"group":"1","calcdate":"12.10.2020"
+ }
+,{ 
+"exchangedate":"15.10.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.3164,"units":1,"rate_per_unit":28.3164,"group":"1","calcdate":"13.10.2020"
+ }
+,{ 
+"exchangedate":"16.10.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.3365,"units":1,"rate_per_unit":28.3365,"group":"1","calcdate":"15.10.2020"
+ }
+,{ 
+"exchangedate":"17.10.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.3365,"units":1,"rate_per_unit":28.3365,"group":"1","calcdate":"15.10.2020"
+ }
+,{ 
+"exchangedate":"18.10.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.3365,"units":1,"rate_per_unit":28.3365,"group":"1","calcdate":"15.10.2020"
+ }
+,{ 
+"exchangedate":"19.10.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.3649,"units":1,"rate_per_unit":28.3649,"group":"1","calcdate":"16.10.2020"
+ }
+,{ 
+"exchangedate":"20.10.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.3762,"units":1,"rate_per_unit":28.3762,"group":"1","calcdate":"19.10.2020"
+ }
+,{ 
+"exchangedate":"21.10.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.3707,"units":1,"rate_per_unit":28.3707,"group":"1","calcdate":"20.10.2020"
+ }
+,{ 
+"exchangedate":"22.10.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.2737,"units":1,"rate_per_unit":28.2737,"group":"1","calcdate":"21.10.2020"
+ }
+,{ 
+"exchangedate":"23.10.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.265,"units":1,"rate_per_unit":28.265,"group":"1","calcdate":"22.10.2020"
+ }
+,{ 
+"exchangedate":"24.10.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.265,"units":1,"rate_per_unit":28.265,"group":"1","calcdate":"22.10.2020"
+ }
+,{ 
+"exchangedate":"25.10.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.265,"units":1,"rate_per_unit":28.265,"group":"1","calcdate":"22.10.2020"
+ }
+,{ 
+"exchangedate":"26.10.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.2911,"units":1,"rate_per_unit":28.2911,"group":"1","calcdate":"23.10.2020"
+ }
+,{ 
+"exchangedate":"27.10.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.3352,"units":1,"rate_per_unit":28.3352,"group":"1","calcdate":"26.10.2020"
+ }
+,{ 
+"exchangedate":"28.10.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.3655,"units":1,"rate_per_unit":28.3655,"group":"1","calcdate":"27.10.2020"
+ }
+,{ 
+"exchangedate":"29.10.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.3989,"units":1,"rate_per_unit":28.3989,"group":"1","calcdate":"28.10.2020"
+ }
+,{ 
+"exchangedate":"30.10.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.4383,"units":1,"rate_per_unit":28.4383,"group":"1","calcdate":"29.10.2020"
+ }
+,{ 
+"exchangedate":"31.10.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.4383,"units":1,"rate_per_unit":28.4383,"group":"1","calcdate":"29.10.2020"
+ }
+,{ 
+"exchangedate":"01.11.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.4383,"units":1,"rate_per_unit":28.4383,"group":"1","calcdate":"29.10.2020"
+ }
+,{ 
+"exchangedate":"02.11.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.4507,"units":1,"rate_per_unit":28.4507,"group":"1","calcdate":"30.10.2020"
+ }
+,{ 
+"exchangedate":"03.11.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.5827,"units":1,"rate_per_unit":28.5827,"group":"1","calcdate":"02.11.2020"
+ }
+,{ 
+"exchangedate":"04.11.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.6,"units":1,"rate_per_unit":28.6,"group":"1","calcdate":"03.11.2020"
+ }
+,{ 
+"exchangedate":"05.11.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.5074,"units":1,"rate_per_unit":28.5074,"group":"1","calcdate":"04.11.2020"
+ }
+,{ 
+"exchangedate":"06.11.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.3643,"units":1,"rate_per_unit":28.3643,"group":"1","calcdate":"05.11.2020"
+ }
+,{ 
+"exchangedate":"07.11.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.3643,"units":1,"rate_per_unit":28.3643,"group":"1","calcdate":"05.11.2020"
+ }
+,{ 
+"exchangedate":"08.11.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.3643,"units":1,"rate_per_unit":28.3643,"group":"1","calcdate":"05.11.2020"
+ }
+,{ 
+"exchangedate":"09.11.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.1375,"units":1,"rate_per_unit":28.1375,"group":"1","calcdate":"06.11.2020"
+ }
+,{ 
+"exchangedate":"10.11.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.1116,"units":1,"rate_per_unit":28.1116,"group":"1","calcdate":"09.11.2020"
+ }
+,{ 
+"exchangedate":"11.11.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.1206,"units":1,"rate_per_unit":28.1206,"group":"1","calcdate":"10.11.2020"
+ }
+,{ 
+"exchangedate":"12.11.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.161,"units":1,"rate_per_unit":28.161,"group":"1","calcdate":"11.11.2020"
+ }
+,{ 
+"exchangedate":"13.11.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.1963,"units":1,"rate_per_unit":28.1963,"group":"1","calcdate":"12.11.2020"
+ }
+,{ 
+"exchangedate":"14.11.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.1963,"units":1,"rate_per_unit":28.1963,"group":"1","calcdate":"12.11.2020"
+ }
+,{ 
+"exchangedate":"15.11.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.1963,"units":1,"rate_per_unit":28.1963,"group":"1","calcdate":"12.11.2020"
+ }
+,{ 
+"exchangedate":"16.11.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.1158,"units":1,"rate_per_unit":28.1158,"group":"1","calcdate":"13.11.2020"
+ }
+,{ 
+"exchangedate":"17.11.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.112,"units":1,"rate_per_unit":28.112,"group":"1","calcdate":"16.11.2020"
+ }
+,{ 
+"exchangedate":"18.11.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.1067,"units":1,"rate_per_unit":28.1067,"group":"1","calcdate":"17.11.2020"
+ }
+,{ 
+"exchangedate":"19.11.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.13,"units":1,"rate_per_unit":28.13,"group":"1","calcdate":"18.11.2020"
+ }
+,{ 
+"exchangedate":"20.11.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.2572,"units":1,"rate_per_unit":28.2572,"group":"1","calcdate":"19.11.2020"
+ }
+,{ 
+"exchangedate":"21.11.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.2572,"units":1,"rate_per_unit":28.2572,"group":"1","calcdate":"19.11.2020"
+ }
+,{ 
+"exchangedate":"22.11.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.2572,"units":1,"rate_per_unit":28.2572,"group":"1","calcdate":"19.11.2020"
+ }
+,{ 
+"exchangedate":"23.11.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.3553,"units":1,"rate_per_unit":28.3553,"group":"1","calcdate":"20.11.2020"
+ }
+,{ 
+"exchangedate":"24.11.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.3694,"units":1,"rate_per_unit":28.3694,"group":"1","calcdate":"23.11.2020"
+ }
+,{ 
+"exchangedate":"25.11.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.3741,"units":1,"rate_per_unit":28.3741,"group":"1","calcdate":"24.11.2020"
+ }
+,{ 
+"exchangedate":"26.11.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.3816,"units":1,"rate_per_unit":28.3816,"group":"1","calcdate":"25.11.2020"
+ }
+,{ 
+"exchangedate":"27.11.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.4428,"units":1,"rate_per_unit":28.4428,"group":"1","calcdate":"26.11.2020"
+ }
+,{ 
+"exchangedate":"28.11.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.4428,"units":1,"rate_per_unit":28.4428,"group":"1","calcdate":"26.11.2020"
+ }
+,{ 
+"exchangedate":"29.11.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.4428,"units":1,"rate_per_unit":28.4428,"group":"1","calcdate":"26.11.2020"
+ }
+,{ 
+"exchangedate":"30.11.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.4681,"units":1,"rate_per_unit":28.4681,"group":"1","calcdate":"27.11.2020"
+ }
+,{ 
+"exchangedate":"01.12.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.4962,"units":1,"rate_per_unit":28.4962,"group":"1","calcdate":"30.11.2020"
+ }
+,{ 
+"exchangedate":"02.12.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.5583,"units":1,"rate_per_unit":28.5583,"group":"1","calcdate":"01.12.2020"
+ }
+,{ 
+"exchangedate":"03.12.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.4367,"units":1,"rate_per_unit":28.4367,"group":"1","calcdate":"02.12.2020"
+ }
+,{ 
+"exchangedate":"04.12.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.3038,"units":1,"rate_per_unit":28.3038,"group":"1","calcdate":"03.12.2020"
+ }
+,{ 
+"exchangedate":"05.12.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.3038,"units":1,"rate_per_unit":28.3038,"group":"1","calcdate":"03.12.2020"
+ }
+,{ 
+"exchangedate":"06.12.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.3038,"units":1,"rate_per_unit":28.3038,"group":"1","calcdate":"03.12.2020"
+ }
+,{ 
+"exchangedate":"07.12.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.2913,"units":1,"rate_per_unit":28.2913,"group":"1","calcdate":"04.12.2020"
+ }
+,{ 
+"exchangedate":"08.12.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.2394,"units":1,"rate_per_unit":28.2394,"group":"1","calcdate":"07.12.2020"
+ }
+,{ 
+"exchangedate":"09.12.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.0828,"units":1,"rate_per_unit":28.0828,"group":"1","calcdate":"08.12.2020"
+ }
+,{ 
+"exchangedate":"10.12.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.0406,"units":1,"rate_per_unit":28.0406,"group":"1","calcdate":"09.12.2020"
+ }
+,{ 
+"exchangedate":"11.12.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.075,"units":1,"rate_per_unit":28.075,"group":"1","calcdate":"10.12.2020"
+ }
+,{ 
+"exchangedate":"12.12.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.075,"units":1,"rate_per_unit":28.075,"group":"1","calcdate":"10.12.2020"
+ }
+,{ 
+"exchangedate":"13.12.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.075,"units":1,"rate_per_unit":28.075,"group":"1","calcdate":"10.12.2020"
+ }
+,{ 
+"exchangedate":"14.12.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.9666,"units":1,"rate_per_unit":27.9666,"group":"1","calcdate":"11.12.2020"
+ }
+,{ 
+"exchangedate":"15.12.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8661,"units":1,"rate_per_unit":27.8661,"group":"1","calcdate":"14.12.2020"
+ }
+,{ 
+"exchangedate":"16.12.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.759,"units":1,"rate_per_unit":27.759,"group":"1","calcdate":"15.12.2020"
+ }
+,{ 
+"exchangedate":"17.12.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.7373,"units":1,"rate_per_unit":27.7373,"group":"1","calcdate":"16.12.2020"
+ }
+,{ 
+"exchangedate":"18.12.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8184,"units":1,"rate_per_unit":27.8184,"group":"1","calcdate":"17.12.2020"
+ }
+,{ 
+"exchangedate":"19.12.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8184,"units":1,"rate_per_unit":27.8184,"group":"1","calcdate":"17.12.2020"
+ }
+,{ 
+"exchangedate":"20.12.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8184,"units":1,"rate_per_unit":27.8184,"group":"1","calcdate":"17.12.2020"
+ }
+,{ 
+"exchangedate":"21.12.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.828,"units":1,"rate_per_unit":27.828,"group":"1","calcdate":"18.12.2020"
+ }
+,{ 
+"exchangedate":"22.12.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.0391,"units":1,"rate_per_unit":28.0391,"group":"1","calcdate":"21.12.2020"
+ }
+,{ 
+"exchangedate":"23.12.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.2513,"units":1,"rate_per_unit":28.2513,"group":"1","calcdate":"22.12.2020"
+ }
+,{ 
+"exchangedate":"24.12.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.4551,"units":1,"rate_per_unit":28.4551,"group":"1","calcdate":"23.12.2020"
+ }
+,{ 
+"exchangedate":"25.12.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.4551,"units":1,"rate_per_unit":28.4551,"group":"1","calcdate":"23.12.2020"
+ }
+,{ 
+"exchangedate":"26.12.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.4551,"units":1,"rate_per_unit":28.4551,"group":"1","calcdate":"23.12.2020"
+ }
+,{ 
+"exchangedate":"27.12.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.4551,"units":1,"rate_per_unit":28.4551,"group":"1","calcdate":"23.12.2020"
+ }
+,{ 
+"exchangedate":"28.12.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.3547,"units":1,"rate_per_unit":28.3547,"group":"1","calcdate":"24.12.2020"
+ }
+,{ 
+"exchangedate":"29.12.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.3668,"units":1,"rate_per_unit":28.3668,"group":"1","calcdate":"28.12.2020"
+ }
+,{ 
+"exchangedate":"30.12.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.2605,"units":1,"rate_per_unit":28.2605,"group":"1","calcdate":"29.12.2020"
+ }
+,{ 
+"exchangedate":"31.12.2020","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.2746,"units":1,"rate_per_unit":28.2746,"group":"1","calcdate":"30.12.2020"
+ }
+,{ 
+"exchangedate":"01.01.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.2746,"units":1,"rate_per_unit":28.2746,"group":"1","calcdate":"30.12.2020"
+ }
+,{ 
+"exchangedate":"02.01.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.2746,"units":1,"rate_per_unit":28.2746,"group":"1","calcdate":"30.12.2020"
+ }
+,{ 
+"exchangedate":"03.01.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.2746,"units":1,"rate_per_unit":28.2746,"group":"1","calcdate":"30.12.2020"
+ }
+,{ 
+"exchangedate":"04.01.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.2746,"units":1,"rate_per_unit":28.2746,"group":"1","calcdate":"30.12.2020"
+ }
+,{ 
+"exchangedate":"05.01.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.431,"units":1,"rate_per_unit":28.431,"group":"1","calcdate":"04.01.2021"
+ }
+,{ 
+"exchangedate":"06.01.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.4028,"units":1,"rate_per_unit":28.4028,"group":"1","calcdate":"05.01.2021"
+ }
+,{ 
+"exchangedate":"07.01.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.4028,"units":1,"rate_per_unit":28.4028,"group":"1","calcdate":"05.01.2021"
+ }
+,{ 
+"exchangedate":"08.01.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.4028,"units":1,"rate_per_unit":28.4028,"group":"1","calcdate":"05.01.2021"
+ }
+,{ 
+"exchangedate":"09.01.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.4028,"units":1,"rate_per_unit":28.4028,"group":"1","calcdate":"05.01.2021"
+ }
+,{ 
+"exchangedate":"10.01.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.4028,"units":1,"rate_per_unit":28.4028,"group":"1","calcdate":"05.01.2021"
+ }
+,{ 
+"exchangedate":"11.01.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.2847,"units":1,"rate_per_unit":28.2847,"group":"1","calcdate":"06.01.2021"
+ }
+,{ 
+"exchangedate":"12.01.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.2038,"units":1,"rate_per_unit":28.2038,"group":"1","calcdate":"11.01.2021"
+ }
+,{ 
+"exchangedate":"13.01.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.046,"units":1,"rate_per_unit":28.046,"group":"1","calcdate":"12.01.2021"
+ }
+,{ 
+"exchangedate":"14.01.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.9705,"units":1,"rate_per_unit":27.9705,"group":"1","calcdate":"13.01.2021"
+ }
+,{ 
+"exchangedate":"15.01.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.0609,"units":1,"rate_per_unit":28.0609,"group":"1","calcdate":"14.01.2021"
+ }
+,{ 
+"exchangedate":"16.01.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.0524,"units":1,"rate_per_unit":28.0524,"group":"1","calcdate":"15.01.2021"
+ }
+,{ 
+"exchangedate":"17.01.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.0524,"units":1,"rate_per_unit":28.0524,"group":"1","calcdate":"15.01.2021"
+ }
+,{ 
+"exchangedate":"18.01.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.0524,"units":1,"rate_per_unit":28.0524,"group":"1","calcdate":"16.01.2021"
+ }
+,{ 
+"exchangedate":"19.01.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.1926,"units":1,"rate_per_unit":28.1926,"group":"1","calcdate":"18.01.2021"
+ }
+,{ 
+"exchangedate":"20.01.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.1544,"units":1,"rate_per_unit":28.1544,"group":"1","calcdate":"19.01.2021"
+ }
+,{ 
+"exchangedate":"21.01.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.2035,"units":1,"rate_per_unit":28.2035,"group":"1","calcdate":"20.01.2021"
+ }
+,{ 
+"exchangedate":"22.01.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.2561,"units":1,"rate_per_unit":28.2561,"group":"1","calcdate":"21.01.2021"
+ }
+,{ 
+"exchangedate":"23.01.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.2561,"units":1,"rate_per_unit":28.2561,"group":"1","calcdate":"21.01.2021"
+ }
+,{ 
+"exchangedate":"24.01.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.2561,"units":1,"rate_per_unit":28.2561,"group":"1","calcdate":"21.01.2021"
+ }
+,{ 
+"exchangedate":"25.01.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.1648,"units":1,"rate_per_unit":28.1648,"group":"1","calcdate":"22.01.2021"
+ }
+,{ 
+"exchangedate":"26.01.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.1665,"units":1,"rate_per_unit":28.1665,"group":"1","calcdate":"25.01.2021"
+ }
+,{ 
+"exchangedate":"27.01.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.1524,"units":1,"rate_per_unit":28.1524,"group":"1","calcdate":"26.01.2021"
+ }
+,{ 
+"exchangedate":"28.01.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.1652,"units":1,"rate_per_unit":28.1652,"group":"1","calcdate":"27.01.2021"
+ }
+,{ 
+"exchangedate":"29.01.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.1929,"units":1,"rate_per_unit":28.1929,"group":"1","calcdate":"28.01.2021"
+ }
+,{ 
+"exchangedate":"30.01.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.1929,"units":1,"rate_per_unit":28.1929,"group":"1","calcdate":"28.01.2021"
+ }
+,{ 
+"exchangedate":"31.01.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.1929,"units":1,"rate_per_unit":28.1929,"group":"1","calcdate":"28.01.2021"
+ }
+,{ 
+"exchangedate":"01.02.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.1324,"units":1,"rate_per_unit":28.1324,"group":"1","calcdate":"29.01.2021"
+ }
+,{ 
+"exchangedate":"02.02.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.0603,"units":1,"rate_per_unit":28.0603,"group":"1","calcdate":"01.02.2021"
+ }
+,{ 
+"exchangedate":"03.02.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.0589,"units":1,"rate_per_unit":28.0589,"group":"1","calcdate":"02.02.2021"
+ }
+,{ 
+"exchangedate":"04.02.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.995,"units":1,"rate_per_unit":27.995,"group":"1","calcdate":"03.02.2021"
+ }
+,{ 
+"exchangedate":"05.02.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8885,"units":1,"rate_per_unit":27.8885,"group":"1","calcdate":"04.02.2021"
+ }
+,{ 
+"exchangedate":"06.02.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8885,"units":1,"rate_per_unit":27.8885,"group":"1","calcdate":"04.02.2021"
+ }
+,{ 
+"exchangedate":"07.02.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8885,"units":1,"rate_per_unit":27.8885,"group":"1","calcdate":"04.02.2021"
+ }
+,{ 
+"exchangedate":"08.02.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.7711,"units":1,"rate_per_unit":27.7711,"group":"1","calcdate":"05.02.2021"
+ }
+,{ 
+"exchangedate":"09.02.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.6651,"units":1,"rate_per_unit":27.6651,"group":"1","calcdate":"08.02.2021"
+ }
+,{ 
+"exchangedate":"10.02.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.6426,"units":1,"rate_per_unit":27.6426,"group":"1","calcdate":"09.02.2021"
+ }
+,{ 
+"exchangedate":"11.02.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.7665,"units":1,"rate_per_unit":27.7665,"group":"1","calcdate":"10.02.2021"
+ }
+,{ 
+"exchangedate":"12.02.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8384,"units":1,"rate_per_unit":27.8384,"group":"1","calcdate":"11.02.2021"
+ }
+,{ 
+"exchangedate":"13.02.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8384,"units":1,"rate_per_unit":27.8384,"group":"1","calcdate":"11.02.2021"
+ }
+,{ 
+"exchangedate":"14.02.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8384,"units":1,"rate_per_unit":27.8384,"group":"1","calcdate":"11.02.2021"
+ }
+,{ 
+"exchangedate":"15.02.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.844,"units":1,"rate_per_unit":27.844,"group":"1","calcdate":"12.02.2021"
+ }
+,{ 
+"exchangedate":"16.02.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.9671,"units":1,"rate_per_unit":27.9671,"group":"1","calcdate":"15.02.2021"
+ }
+,{ 
+"exchangedate":"17.02.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8304,"units":1,"rate_per_unit":27.8304,"group":"1","calcdate":"16.02.2021"
+ }
+,{ 
+"exchangedate":"18.02.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.9038,"units":1,"rate_per_unit":27.9038,"group":"1","calcdate":"17.02.2021"
+ }
+,{ 
+"exchangedate":"19.02.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8461,"units":1,"rate_per_unit":27.8461,"group":"1","calcdate":"18.02.2021"
+ }
+,{ 
+"exchangedate":"20.02.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8461,"units":1,"rate_per_unit":27.8461,"group":"1","calcdate":"18.02.2021"
+ }
+,{ 
+"exchangedate":"21.02.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8461,"units":1,"rate_per_unit":27.8461,"group":"1","calcdate":"18.02.2021"
+ }
+,{ 
+"exchangedate":"22.02.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8468,"units":1,"rate_per_unit":27.8468,"group":"1","calcdate":"19.02.2021"
+ }
+,{ 
+"exchangedate":"23.02.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.9304,"units":1,"rate_per_unit":27.9304,"group":"1","calcdate":"22.02.2021"
+ }
+,{ 
+"exchangedate":"24.02.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8976,"units":1,"rate_per_unit":27.8976,"group":"1","calcdate":"23.02.2021"
+ }
+,{ 
+"exchangedate":"25.02.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.9492,"units":1,"rate_per_unit":27.9492,"group":"1","calcdate":"24.02.2021"
+ }
+,{ 
+"exchangedate":"26.02.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.9301,"units":1,"rate_per_unit":27.9301,"group":"1","calcdate":"25.02.2021"
+ }
+,{ 
+"exchangedate":"27.02.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.9301,"units":1,"rate_per_unit":27.9301,"group":"1","calcdate":"25.02.2021"
+ }
+,{ 
+"exchangedate":"28.02.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.9301,"units":1,"rate_per_unit":27.9301,"group":"1","calcdate":"25.02.2021"
+ }
+,{ 
+"exchangedate":"01.03.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.9456,"units":1,"rate_per_unit":27.9456,"group":"1","calcdate":"26.02.2021"
+ }
+,{ 
+"exchangedate":"02.03.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.0007,"units":1,"rate_per_unit":28.0007,"group":"1","calcdate":"01.03.2021"
+ }
+,{ 
+"exchangedate":"03.03.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.933,"units":1,"rate_per_unit":27.933,"group":"1","calcdate":"02.03.2021"
+ }
+,{ 
+"exchangedate":"04.03.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8477,"units":1,"rate_per_unit":27.8477,"group":"1","calcdate":"03.03.2021"
+ }
+,{ 
+"exchangedate":"05.03.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.7564,"units":1,"rate_per_unit":27.7564,"group":"1","calcdate":"04.03.2021"
+ }
+,{ 
+"exchangedate":"06.03.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.7564,"units":1,"rate_per_unit":27.7564,"group":"1","calcdate":"04.03.2021"
+ }
+,{ 
+"exchangedate":"07.03.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.7564,"units":1,"rate_per_unit":27.7564,"group":"1","calcdate":"04.03.2021"
+ }
+,{ 
+"exchangedate":"08.03.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.7564,"units":1,"rate_per_unit":27.7564,"group":"1","calcdate":"04.03.2021"
+ }
+,{ 
+"exchangedate":"09.03.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.7091,"units":1,"rate_per_unit":27.7091,"group":"1","calcdate":"05.03.2021"
+ }
+,{ 
+"exchangedate":"10.03.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.7431,"units":1,"rate_per_unit":27.7431,"group":"1","calcdate":"09.03.2021"
+ }
+,{ 
+"exchangedate":"11.03.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.7016,"units":1,"rate_per_unit":27.7016,"group":"1","calcdate":"10.03.2021"
+ }
+,{ 
+"exchangedate":"12.03.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.7486,"units":1,"rate_per_unit":27.7486,"group":"1","calcdate":"11.03.2021"
+ }
+,{ 
+"exchangedate":"13.03.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.7486,"units":1,"rate_per_unit":27.7486,"group":"1","calcdate":"11.03.2021"
+ }
+,{ 
+"exchangedate":"14.03.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.7486,"units":1,"rate_per_unit":27.7486,"group":"1","calcdate":"11.03.2021"
+ }
+,{ 
+"exchangedate":"15.03.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.7305,"units":1,"rate_per_unit":27.7305,"group":"1","calcdate":"12.03.2021"
+ }
+,{ 
+"exchangedate":"16.03.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.6434,"units":1,"rate_per_unit":27.6434,"group":"1","calcdate":"15.03.2021"
+ }
+,{ 
+"exchangedate":"17.03.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.6525,"units":1,"rate_per_unit":27.6525,"group":"1","calcdate":"16.03.2021"
+ }
+,{ 
+"exchangedate":"18.03.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.6978,"units":1,"rate_per_unit":27.6978,"group":"1","calcdate":"17.03.2021"
+ }
+,{ 
+"exchangedate":"19.03.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.6828,"units":1,"rate_per_unit":27.6828,"group":"1","calcdate":"18.03.2021"
+ }
+,{ 
+"exchangedate":"20.03.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.6828,"units":1,"rate_per_unit":27.6828,"group":"1","calcdate":"18.03.2021"
+ }
+,{ 
+"exchangedate":"21.03.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.6828,"units":1,"rate_per_unit":27.6828,"group":"1","calcdate":"18.03.2021"
+ }
+,{ 
+"exchangedate":"22.03.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.7184,"units":1,"rate_per_unit":27.7184,"group":"1","calcdate":"19.03.2021"
+ }
+,{ 
+"exchangedate":"23.03.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.6871,"units":1,"rate_per_unit":27.6871,"group":"1","calcdate":"22.03.2021"
+ }
+,{ 
+"exchangedate":"24.03.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.7295,"units":1,"rate_per_unit":27.7295,"group":"1","calcdate":"23.03.2021"
+ }
+,{ 
+"exchangedate":"25.03.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8706,"units":1,"rate_per_unit":27.8706,"group":"1","calcdate":"24.03.2021"
+ }
+,{ 
+"exchangedate":"26.03.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.9698,"units":1,"rate_per_unit":27.9698,"group":"1","calcdate":"25.03.2021"
+ }
+,{ 
+"exchangedate":"27.03.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.9698,"units":1,"rate_per_unit":27.9698,"group":"1","calcdate":"25.03.2021"
+ }
+,{ 
+"exchangedate":"28.03.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.9698,"units":1,"rate_per_unit":27.9698,"group":"1","calcdate":"25.03.2021"
+ }
+,{ 
+"exchangedate":"29.03.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.9679,"units":1,"rate_per_unit":27.9679,"group":"1","calcdate":"26.03.2021"
+ }
+,{ 
+"exchangedate":"30.03.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.9694,"units":1,"rate_per_unit":27.9694,"group":"1","calcdate":"29.03.2021"
+ }
+,{ 
+"exchangedate":"31.03.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8852,"units":1,"rate_per_unit":27.8852,"group":"1","calcdate":"30.03.2021"
+ }
+,{ 
+"exchangedate":"01.04.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8226,"units":1,"rate_per_unit":27.8226,"group":"1","calcdate":"31.03.2021"
+ }
+,{ 
+"exchangedate":"02.04.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8324,"units":1,"rate_per_unit":27.8324,"group":"1","calcdate":"01.04.2021"
+ }
+,{ 
+"exchangedate":"03.04.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8324,"units":1,"rate_per_unit":27.8324,"group":"1","calcdate":"01.04.2021"
+ }
+,{ 
+"exchangedate":"04.04.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8324,"units":1,"rate_per_unit":27.8324,"group":"1","calcdate":"01.04.2021"
+ }
+,{ 
+"exchangedate":"05.04.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.9555,"units":1,"rate_per_unit":27.9555,"group":"1","calcdate":"02.04.2021"
+ }
+,{ 
+"exchangedate":"06.04.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.939,"units":1,"rate_per_unit":27.939,"group":"1","calcdate":"05.04.2021"
+ }
+,{ 
+"exchangedate":"07.04.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8384,"units":1,"rate_per_unit":27.8384,"group":"1","calcdate":"06.04.2021"
+ }
+,{ 
+"exchangedate":"08.04.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8923,"units":1,"rate_per_unit":27.8923,"group":"1","calcdate":"07.04.2021"
+ }
+,{ 
+"exchangedate":"09.04.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.9768,"units":1,"rate_per_unit":27.9768,"group":"1","calcdate":"08.04.2021"
+ }
+,{ 
+"exchangedate":"10.04.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.9768,"units":1,"rate_per_unit":27.9768,"group":"1","calcdate":"08.04.2021"
+ }
+,{ 
+"exchangedate":"11.04.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.9768,"units":1,"rate_per_unit":27.9768,"group":"1","calcdate":"08.04.2021"
+ }
+,{ 
+"exchangedate":"12.04.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.9094,"units":1,"rate_per_unit":27.9094,"group":"1","calcdate":"09.04.2021"
+ }
+,{ 
+"exchangedate":"13.04.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.9335,"units":1,"rate_per_unit":27.9335,"group":"1","calcdate":"12.04.2021"
+ }
+,{ 
+"exchangedate":"14.04.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.0156,"units":1,"rate_per_unit":28.0156,"group":"1","calcdate":"13.04.2021"
+ }
+,{ 
+"exchangedate":"15.04.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.9765,"units":1,"rate_per_unit":27.9765,"group":"1","calcdate":"14.04.2021"
+ }
+,{ 
+"exchangedate":"16.04.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.9592,"units":1,"rate_per_unit":27.9592,"group":"1","calcdate":"15.04.2021"
+ }
+,{ 
+"exchangedate":"17.04.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.9592,"units":1,"rate_per_unit":27.9592,"group":"1","calcdate":"15.04.2021"
+ }
+,{ 
+"exchangedate":"18.04.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.9592,"units":1,"rate_per_unit":27.9592,"group":"1","calcdate":"15.04.2021"
+ }
+,{ 
+"exchangedate":"19.04.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.9783,"units":1,"rate_per_unit":27.9783,"group":"1","calcdate":"16.04.2021"
+ }
+,{ 
+"exchangedate":"20.04.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.0087,"units":1,"rate_per_unit":28.0087,"group":"1","calcdate":"19.04.2021"
+ }
+,{ 
+"exchangedate":"21.04.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.0096,"units":1,"rate_per_unit":28.0096,"group":"1","calcdate":"20.04.2021"
+ }
+,{ 
+"exchangedate":"22.04.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.0576,"units":1,"rate_per_unit":28.0576,"group":"1","calcdate":"21.04.2021"
+ }
+,{ 
+"exchangedate":"23.04.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.0642,"units":1,"rate_per_unit":28.0642,"group":"1","calcdate":"22.04.2021"
+ }
+,{ 
+"exchangedate":"24.04.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.0642,"units":1,"rate_per_unit":28.0642,"group":"1","calcdate":"22.04.2021"
+ }
+,{ 
+"exchangedate":"25.04.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.0642,"units":1,"rate_per_unit":28.0642,"group":"1","calcdate":"22.04.2021"
+ }
+,{ 
+"exchangedate":"26.04.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.9014,"units":1,"rate_per_unit":27.9014,"group":"1","calcdate":"23.04.2021"
+ }
+,{ 
+"exchangedate":"27.04.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8558,"units":1,"rate_per_unit":27.8558,"group":"1","calcdate":"26.04.2021"
+ }
+,{ 
+"exchangedate":"28.04.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.7715,"units":1,"rate_per_unit":27.7715,"group":"1","calcdate":"27.04.2021"
+ }
+,{ 
+"exchangedate":"29.04.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.7867,"units":1,"rate_per_unit":27.7867,"group":"1","calcdate":"28.04.2021"
+ }
+,{ 
+"exchangedate":"30.04.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.75,"units":1,"rate_per_unit":27.75,"group":"1","calcdate":"29.04.2021"
+ }
+,{ 
+"exchangedate":"01.05.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.75,"units":1,"rate_per_unit":27.75,"group":"1","calcdate":"29.04.2021"
+ }
+,{ 
+"exchangedate":"02.05.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.75,"units":1,"rate_per_unit":27.75,"group":"1","calcdate":"29.04.2021"
+ }
+,{ 
+"exchangedate":"03.05.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.75,"units":1,"rate_per_unit":27.75,"group":"1","calcdate":"29.04.2021"
+ }
+,{ 
+"exchangedate":"04.05.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.75,"units":1,"rate_per_unit":27.75,"group":"1","calcdate":"29.04.2021"
+ }
+,{ 
+"exchangedate":"05.05.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.733,"units":1,"rate_per_unit":27.733,"group":"1","calcdate":"30.04.2021"
+ }
+,{ 
+"exchangedate":"06.05.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.7339,"units":1,"rate_per_unit":27.7339,"group":"1","calcdate":"05.05.2021"
+ }
+,{ 
+"exchangedate":"07.05.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.7205,"units":1,"rate_per_unit":27.7205,"group":"1","calcdate":"06.05.2021"
+ }
+,{ 
+"exchangedate":"08.05.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.7205,"units":1,"rate_per_unit":27.7205,"group":"1","calcdate":"06.05.2021"
+ }
+,{ 
+"exchangedate":"09.05.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.7205,"units":1,"rate_per_unit":27.7205,"group":"1","calcdate":"06.05.2021"
+ }
+,{ 
+"exchangedate":"10.05.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.7205,"units":1,"rate_per_unit":27.7205,"group":"1","calcdate":"06.05.2021"
+ }
+,{ 
+"exchangedate":"11.05.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.7641,"units":1,"rate_per_unit":27.7641,"group":"1","calcdate":"07.05.2021"
+ }
+,{ 
+"exchangedate":"12.05.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.6744,"units":1,"rate_per_unit":27.6744,"group":"1","calcdate":"11.05.2021"
+ }
+,{ 
+"exchangedate":"13.05.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.6318,"units":1,"rate_per_unit":27.6318,"group":"1","calcdate":"12.05.2021"
+ }
+,{ 
+"exchangedate":"14.05.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.6273,"units":1,"rate_per_unit":27.6273,"group":"1","calcdate":"13.05.2021"
+ }
+,{ 
+"exchangedate":"15.05.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.6273,"units":1,"rate_per_unit":27.6273,"group":"1","calcdate":"13.05.2021"
+ }
+,{ 
+"exchangedate":"16.05.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.6273,"units":1,"rate_per_unit":27.6273,"group":"1","calcdate":"13.05.2021"
+ }
+,{ 
+"exchangedate":"17.05.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.6142,"units":1,"rate_per_unit":27.6142,"group":"1","calcdate":"14.05.2021"
+ }
+,{ 
+"exchangedate":"18.05.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.555,"units":1,"rate_per_unit":27.555,"group":"1","calcdate":"17.05.2021"
+ }
+,{ 
+"exchangedate":"19.05.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.4368,"units":1,"rate_per_unit":27.4368,"group":"1","calcdate":"18.05.2021"
+ }
+,{ 
+"exchangedate":"20.05.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.4166,"units":1,"rate_per_unit":27.4166,"group":"1","calcdate":"19.05.2021"
+ }
+,{ 
+"exchangedate":"21.05.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.4665,"units":1,"rate_per_unit":27.4665,"group":"1","calcdate":"20.05.2021"
+ }
+,{ 
+"exchangedate":"22.05.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.4665,"units":1,"rate_per_unit":27.4665,"group":"1","calcdate":"20.05.2021"
+ }
+,{ 
+"exchangedate":"23.05.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.4665,"units":1,"rate_per_unit":27.4665,"group":"1","calcdate":"20.05.2021"
+ }
+,{ 
+"exchangedate":"24.05.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.4572,"units":1,"rate_per_unit":27.4572,"group":"1","calcdate":"21.05.2021"
+ }
+,{ 
+"exchangedate":"25.05.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.4281,"units":1,"rate_per_unit":27.4281,"group":"1","calcdate":"24.05.2021"
+ }
+,{ 
+"exchangedate":"26.05.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.4553,"units":1,"rate_per_unit":27.4553,"group":"1","calcdate":"25.05.2021"
+ }
+,{ 
+"exchangedate":"27.05.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.5461,"units":1,"rate_per_unit":27.5461,"group":"1","calcdate":"26.05.2021"
+ }
+,{ 
+"exchangedate":"28.05.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.526,"units":1,"rate_per_unit":27.526,"group":"1","calcdate":"27.05.2021"
+ }
+,{ 
+"exchangedate":"29.05.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.526,"units":1,"rate_per_unit":27.526,"group":"1","calcdate":"27.05.2021"
+ }
+,{ 
+"exchangedate":"30.05.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.526,"units":1,"rate_per_unit":27.526,"group":"1","calcdate":"27.05.2021"
+ }
+,{ 
+"exchangedate":"31.05.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.5004,"units":1,"rate_per_unit":27.5004,"group":"1","calcdate":"28.05.2021"
+ }
+,{ 
+"exchangedate":"01.06.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.4674,"units":1,"rate_per_unit":27.4674,"group":"1","calcdate":"31.05.2021"
+ }
+,{ 
+"exchangedate":"02.06.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.4381,"units":1,"rate_per_unit":27.4381,"group":"1","calcdate":"01.06.2021"
+ }
+,{ 
+"exchangedate":"03.06.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.3449,"units":1,"rate_per_unit":27.3449,"group":"1","calcdate":"02.06.2021"
+ }
+,{ 
+"exchangedate":"04.06.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.34,"units":1,"rate_per_unit":27.34,"group":"1","calcdate":"03.06.2021"
+ }
+,{ 
+"exchangedate":"05.06.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.34,"units":1,"rate_per_unit":27.34,"group":"1","calcdate":"03.06.2021"
+ }
+,{ 
+"exchangedate":"06.06.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.34,"units":1,"rate_per_unit":27.34,"group":"1","calcdate":"03.06.2021"
+ }
+,{ 
+"exchangedate":"07.06.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2914,"units":1,"rate_per_unit":27.2914,"group":"1","calcdate":"04.06.2021"
+ }
+,{ 
+"exchangedate":"08.06.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.1923,"units":1,"rate_per_unit":27.1923,"group":"1","calcdate":"07.06.2021"
+ }
+,{ 
+"exchangedate":"09.06.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.1764,"units":1,"rate_per_unit":27.1764,"group":"1","calcdate":"08.06.2021"
+ }
+,{ 
+"exchangedate":"10.06.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.0906,"units":1,"rate_per_unit":27.0906,"group":"1","calcdate":"09.06.2021"
+ }
+,{ 
+"exchangedate":"11.06.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.1068,"units":1,"rate_per_unit":27.1068,"group":"1","calcdate":"10.06.2021"
+ }
+,{ 
+"exchangedate":"12.06.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.1068,"units":1,"rate_per_unit":27.1068,"group":"1","calcdate":"10.06.2021"
+ }
+,{ 
+"exchangedate":"13.06.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.1068,"units":1,"rate_per_unit":27.1068,"group":"1","calcdate":"10.06.2021"
+ }
+,{ 
+"exchangedate":"14.06.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.0404,"units":1,"rate_per_unit":27.0404,"group":"1","calcdate":"11.06.2021"
+ }
+,{ 
+"exchangedate":"15.06.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.9957,"units":1,"rate_per_unit":26.9957,"group":"1","calcdate":"14.06.2021"
+ }
+,{ 
+"exchangedate":"16.06.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.9258,"units":1,"rate_per_unit":26.9258,"group":"1","calcdate":"15.06.2021"
+ }
+,{ 
+"exchangedate":"17.06.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.0275,"units":1,"rate_per_unit":27.0275,"group":"1","calcdate":"16.06.2021"
+ }
+,{ 
+"exchangedate":"18.06.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.1712,"units":1,"rate_per_unit":27.1712,"group":"1","calcdate":"17.06.2021"
+ }
+,{ 
+"exchangedate":"19.06.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.1712,"units":1,"rate_per_unit":27.1712,"group":"1","calcdate":"17.06.2021"
+ }
+,{ 
+"exchangedate":"20.06.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.1712,"units":1,"rate_per_unit":27.1712,"group":"1","calcdate":"17.06.2021"
+ }
+,{ 
+"exchangedate":"21.06.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.1712,"units":1,"rate_per_unit":27.1712,"group":"1","calcdate":"17.06.2021"
+ }
+,{ 
+"exchangedate":"22.06.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.1935,"units":1,"rate_per_unit":27.1935,"group":"1","calcdate":"18.06.2021"
+ }
+,{ 
+"exchangedate":"23.06.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.305,"units":1,"rate_per_unit":27.305,"group":"1","calcdate":"22.06.2021"
+ }
+,{ 
+"exchangedate":"24.06.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2737,"units":1,"rate_per_unit":27.2737,"group":"1","calcdate":"23.06.2021"
+ }
+,{ 
+"exchangedate":"25.06.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.4589,"units":1,"rate_per_unit":27.4589,"group":"1","calcdate":"24.06.2021"
+ }
+,{ 
+"exchangedate":"26.06.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.4589,"units":1,"rate_per_unit":27.4589,"group":"1","calcdate":"24.06.2021"
+ }
+,{ 
+"exchangedate":"27.06.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.4589,"units":1,"rate_per_unit":27.4589,"group":"1","calcdate":"24.06.2021"
+ }
+,{ 
+"exchangedate":"28.06.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.4589,"units":1,"rate_per_unit":27.4589,"group":"1","calcdate":"24.06.2021"
+ }
+,{ 
+"exchangedate":"29.06.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.3964,"units":1,"rate_per_unit":27.3964,"group":"1","calcdate":"25.06.2021"
+ }
+,{ 
+"exchangedate":"30.06.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.1763,"units":1,"rate_per_unit":27.1763,"group":"1","calcdate":"29.06.2021"
+ }
+,{ 
+"exchangedate":"01.07.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2275,"units":1,"rate_per_unit":27.2275,"group":"1","calcdate":"30.06.2021"
+ }
+,{ 
+"exchangedate":"02.07.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.3841,"units":1,"rate_per_unit":27.3841,"group":"1","calcdate":"01.07.2021"
+ }
+,{ 
+"exchangedate":"03.07.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.3841,"units":1,"rate_per_unit":27.3841,"group":"1","calcdate":"01.07.2021"
+ }
+,{ 
+"exchangedate":"04.07.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.3841,"units":1,"rate_per_unit":27.3841,"group":"1","calcdate":"01.07.2021"
+ }
+,{ 
+"exchangedate":"05.07.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.4121,"units":1,"rate_per_unit":27.4121,"group":"1","calcdate":"02.07.2021"
+ }
+,{ 
+"exchangedate":"06.07.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2904,"units":1,"rate_per_unit":27.2904,"group":"1","calcdate":"05.07.2021"
+ }
+,{ 
+"exchangedate":"07.07.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2497,"units":1,"rate_per_unit":27.2497,"group":"1","calcdate":"06.07.2021"
+ }
+,{ 
+"exchangedate":"08.07.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2993,"units":1,"rate_per_unit":27.2993,"group":"1","calcdate":"07.07.2021"
+ }
+,{ 
+"exchangedate":"09.07.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2862,"units":1,"rate_per_unit":27.2862,"group":"1","calcdate":"08.07.2021"
+ }
+,{ 
+"exchangedate":"10.07.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2862,"units":1,"rate_per_unit":27.2862,"group":"1","calcdate":"08.07.2021"
+ }
+,{ 
+"exchangedate":"11.07.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2862,"units":1,"rate_per_unit":27.2862,"group":"1","calcdate":"08.07.2021"
+ }
+,{ 
+"exchangedate":"12.07.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.3234,"units":1,"rate_per_unit":27.3234,"group":"1","calcdate":"09.07.2021"
+ }
+,{ 
+"exchangedate":"13.07.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2904,"units":1,"rate_per_unit":27.2904,"group":"1","calcdate":"12.07.2021"
+ }
+,{ 
+"exchangedate":"14.07.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.3216,"units":1,"rate_per_unit":27.3216,"group":"1","calcdate":"13.07.2021"
+ }
+,{ 
+"exchangedate":"15.07.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.3047,"units":1,"rate_per_unit":27.3047,"group":"1","calcdate":"14.07.2021"
+ }
+,{ 
+"exchangedate":"16.07.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2905,"units":1,"rate_per_unit":27.2905,"group":"1","calcdate":"15.07.2021"
+ }
+,{ 
+"exchangedate":"17.07.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2905,"units":1,"rate_per_unit":27.2905,"group":"1","calcdate":"15.07.2021"
+ }
+,{ 
+"exchangedate":"18.07.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2905,"units":1,"rate_per_unit":27.2905,"group":"1","calcdate":"15.07.2021"
+ }
+,{ 
+"exchangedate":"19.07.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2301,"units":1,"rate_per_unit":27.2301,"group":"1","calcdate":"16.07.2021"
+ }
+,{ 
+"exchangedate":"20.07.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2132,"units":1,"rate_per_unit":27.2132,"group":"1","calcdate":"19.07.2021"
+ }
+,{ 
+"exchangedate":"21.07.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2205,"units":1,"rate_per_unit":27.2205,"group":"1","calcdate":"20.07.2021"
+ }
+,{ 
+"exchangedate":"22.07.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2405,"units":1,"rate_per_unit":27.2405,"group":"1","calcdate":"21.07.2021"
+ }
+,{ 
+"exchangedate":"23.07.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.1915,"units":1,"rate_per_unit":27.1915,"group":"1","calcdate":"22.07.2021"
+ }
+,{ 
+"exchangedate":"24.07.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.1915,"units":1,"rate_per_unit":27.1915,"group":"1","calcdate":"22.07.2021"
+ }
+,{ 
+"exchangedate":"25.07.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.1915,"units":1,"rate_per_unit":27.1915,"group":"1","calcdate":"22.07.2021"
+ }
+,{ 
+"exchangedate":"26.07.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.048,"units":1,"rate_per_unit":27.048,"group":"1","calcdate":"23.07.2021"
+ }
+,{ 
+"exchangedate":"27.07.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.9805,"units":1,"rate_per_unit":26.9805,"group":"1","calcdate":"26.07.2021"
+ }
+,{ 
+"exchangedate":"28.07.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.906,"units":1,"rate_per_unit":26.906,"group":"1","calcdate":"27.07.2021"
+ }
+,{ 
+"exchangedate":"29.07.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.8628,"units":1,"rate_per_unit":26.8628,"group":"1","calcdate":"28.07.2021"
+ }
+,{ 
+"exchangedate":"30.07.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.8867,"units":1,"rate_per_unit":26.8867,"group":"1","calcdate":"29.07.2021"
+ }
+,{ 
+"exchangedate":"31.07.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.8867,"units":1,"rate_per_unit":26.8867,"group":"1","calcdate":"29.07.2021"
+ }
+,{ 
+"exchangedate":"01.08.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.8867,"units":1,"rate_per_unit":26.8867,"group":"1","calcdate":"29.07.2021"
+ }
+,{ 
+"exchangedate":"02.08.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.8168,"units":1,"rate_per_unit":26.8168,"group":"1","calcdate":"30.07.2021"
+ }
+,{ 
+"exchangedate":"03.08.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.8444,"units":1,"rate_per_unit":26.8444,"group":"1","calcdate":"02.08.2021"
+ }
+,{ 
+"exchangedate":"04.08.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.8411,"units":1,"rate_per_unit":26.8411,"group":"1","calcdate":"03.08.2021"
+ }
+,{ 
+"exchangedate":"05.08.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.9094,"units":1,"rate_per_unit":26.9094,"group":"1","calcdate":"04.08.2021"
+ }
+,{ 
+"exchangedate":"06.08.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.9395,"units":1,"rate_per_unit":26.9395,"group":"1","calcdate":"05.08.2021"
+ }
+,{ 
+"exchangedate":"07.08.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.9395,"units":1,"rate_per_unit":26.9395,"group":"1","calcdate":"05.08.2021"
+ }
+,{ 
+"exchangedate":"08.08.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.9395,"units":1,"rate_per_unit":26.9395,"group":"1","calcdate":"05.08.2021"
+ }
+,{ 
+"exchangedate":"09.08.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.8346,"units":1,"rate_per_unit":26.8346,"group":"1","calcdate":"06.08.2021"
+ }
+,{ 
+"exchangedate":"10.08.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.8011,"units":1,"rate_per_unit":26.8011,"group":"1","calcdate":"09.08.2021"
+ }
+,{ 
+"exchangedate":"11.08.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.7557,"units":1,"rate_per_unit":26.7557,"group":"1","calcdate":"10.08.2021"
+ }
+,{ 
+"exchangedate":"12.08.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.8042,"units":1,"rate_per_unit":26.8042,"group":"1","calcdate":"11.08.2021"
+ }
+,{ 
+"exchangedate":"13.08.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.7686,"units":1,"rate_per_unit":26.7686,"group":"1","calcdate":"12.08.2021"
+ }
+,{ 
+"exchangedate":"14.08.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.7686,"units":1,"rate_per_unit":26.7686,"group":"1","calcdate":"12.08.2021"
+ }
+,{ 
+"exchangedate":"15.08.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.7686,"units":1,"rate_per_unit":26.7686,"group":"1","calcdate":"12.08.2021"
+ }
+,{ 
+"exchangedate":"16.08.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.6931,"units":1,"rate_per_unit":26.6931,"group":"1","calcdate":"13.08.2021"
+ }
+,{ 
+"exchangedate":"17.08.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.6457,"units":1,"rate_per_unit":26.6457,"group":"1","calcdate":"16.08.2021"
+ }
+,{ 
+"exchangedate":"18.08.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.6752,"units":1,"rate_per_unit":26.6752,"group":"1","calcdate":"17.08.2021"
+ }
+,{ 
+"exchangedate":"19.08.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.6455,"units":1,"rate_per_unit":26.6455,"group":"1","calcdate":"18.08.2021"
+ }
+,{ 
+"exchangedate":"20.08.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.6504,"units":1,"rate_per_unit":26.6504,"group":"1","calcdate":"19.08.2021"
+ }
+,{ 
+"exchangedate":"21.08.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.6504,"units":1,"rate_per_unit":26.6504,"group":"1","calcdate":"19.08.2021"
+ }
+,{ 
+"exchangedate":"22.08.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.6504,"units":1,"rate_per_unit":26.6504,"group":"1","calcdate":"19.08.2021"
+ }
+,{ 
+"exchangedate":"23.08.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.6504,"units":1,"rate_per_unit":26.6504,"group":"1","calcdate":"19.08.2021"
+ }
+,{ 
+"exchangedate":"24.08.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.6504,"units":1,"rate_per_unit":26.6504,"group":"1","calcdate":"19.08.2021"
+ }
+,{ 
+"exchangedate":"25.08.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.6718,"units":1,"rate_per_unit":26.6718,"group":"1","calcdate":"20.08.2021"
+ }
+,{ 
+"exchangedate":"26.08.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.7074,"units":1,"rate_per_unit":26.7074,"group":"1","calcdate":"25.08.2021"
+ }
+,{ 
+"exchangedate":"27.08.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.7744,"units":1,"rate_per_unit":26.7744,"group":"1","calcdate":"26.08.2021"
+ }
+,{ 
+"exchangedate":"28.08.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.929,"units":1,"rate_per_unit":26.929,"group":"1","calcdate":"27.08.2021"
+ }
+,{ 
+"exchangedate":"29.08.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.929,"units":1,"rate_per_unit":26.929,"group":"1","calcdate":"27.08.2021"
+ }
+,{ 
+"exchangedate":"30.08.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.929,"units":1,"rate_per_unit":26.929,"group":"1","calcdate":"28.08.2021"
+ }
+,{ 
+"exchangedate":"31.08.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.8601,"units":1,"rate_per_unit":26.8601,"group":"1","calcdate":"30.08.2021"
+ }
+,{ 
+"exchangedate":"01.09.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.8928,"units":1,"rate_per_unit":26.8928,"group":"1","calcdate":"31.08.2021"
+ }
+,{ 
+"exchangedate":"02.09.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.0029,"units":1,"rate_per_unit":27.0029,"group":"1","calcdate":"01.09.2021"
+ }
+,{ 
+"exchangedate":"03.09.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.0247,"units":1,"rate_per_unit":27.0247,"group":"1","calcdate":"02.09.2021"
+ }
+,{ 
+"exchangedate":"04.09.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.0247,"units":1,"rate_per_unit":27.0247,"group":"1","calcdate":"02.09.2021"
+ }
+,{ 
+"exchangedate":"05.09.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.0247,"units":1,"rate_per_unit":27.0247,"group":"1","calcdate":"02.09.2021"
+ }
+,{ 
+"exchangedate":"06.09.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.9298,"units":1,"rate_per_unit":26.9298,"group":"1","calcdate":"03.09.2021"
+ }
+,{ 
+"exchangedate":"07.09.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.8102,"units":1,"rate_per_unit":26.8102,"group":"1","calcdate":"06.09.2021"
+ }
+,{ 
+"exchangedate":"08.09.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.7317,"units":1,"rate_per_unit":26.7317,"group":"1","calcdate":"07.09.2021"
+ }
+,{ 
+"exchangedate":"09.09.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.7452,"units":1,"rate_per_unit":26.7452,"group":"1","calcdate":"08.09.2021"
+ }
+,{ 
+"exchangedate":"10.09.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.7264,"units":1,"rate_per_unit":26.7264,"group":"1","calcdate":"09.09.2021"
+ }
+,{ 
+"exchangedate":"11.09.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.7264,"units":1,"rate_per_unit":26.7264,"group":"1","calcdate":"09.09.2021"
+ }
+,{ 
+"exchangedate":"12.09.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.7264,"units":1,"rate_per_unit":26.7264,"group":"1","calcdate":"09.09.2021"
+ }
+,{ 
+"exchangedate":"13.09.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.6782,"units":1,"rate_per_unit":26.6782,"group":"1","calcdate":"10.09.2021"
+ }
+,{ 
+"exchangedate":"14.09.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.692,"units":1,"rate_per_unit":26.692,"group":"1","calcdate":"13.09.2021"
+ }
+,{ 
+"exchangedate":"15.09.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.6362,"units":1,"rate_per_unit":26.6362,"group":"1","calcdate":"14.09.2021"
+ }
+,{ 
+"exchangedate":"16.09.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.645,"units":1,"rate_per_unit":26.645,"group":"1","calcdate":"15.09.2021"
+ }
+,{ 
+"exchangedate":"17.09.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.6672,"units":1,"rate_per_unit":26.6672,"group":"1","calcdate":"16.09.2021"
+ }
+,{ 
+"exchangedate":"18.09.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.6672,"units":1,"rate_per_unit":26.6672,"group":"1","calcdate":"16.09.2021"
+ }
+,{ 
+"exchangedate":"19.09.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.6672,"units":1,"rate_per_unit":26.6672,"group":"1","calcdate":"16.09.2021"
+ }
+,{ 
+"exchangedate":"20.09.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.7028,"units":1,"rate_per_unit":26.7028,"group":"1","calcdate":"17.09.2021"
+ }
+,{ 
+"exchangedate":"21.09.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.7072,"units":1,"rate_per_unit":26.7072,"group":"1","calcdate":"20.09.2021"
+ }
+,{ 
+"exchangedate":"22.09.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.7081,"units":1,"rate_per_unit":26.7081,"group":"1","calcdate":"21.09.2021"
+ }
+,{ 
+"exchangedate":"23.09.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.6714,"units":1,"rate_per_unit":26.6714,"group":"1","calcdate":"22.09.2021"
+ }
+,{ 
+"exchangedate":"24.09.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.5272,"units":1,"rate_per_unit":26.5272,"group":"1","calcdate":"23.09.2021"
+ }
+,{ 
+"exchangedate":"25.09.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.5272,"units":1,"rate_per_unit":26.5272,"group":"1","calcdate":"23.09.2021"
+ }
+,{ 
+"exchangedate":"26.09.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.5272,"units":1,"rate_per_unit":26.5272,"group":"1","calcdate":"23.09.2021"
+ }
+,{ 
+"exchangedate":"27.09.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.6422,"units":1,"rate_per_unit":26.6422,"group":"1","calcdate":"24.09.2021"
+ }
+,{ 
+"exchangedate":"28.09.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.6556,"units":1,"rate_per_unit":26.6556,"group":"1","calcdate":"27.09.2021"
+ }
+,{ 
+"exchangedate":"29.09.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.5698,"units":1,"rate_per_unit":26.5698,"group":"1","calcdate":"28.09.2021"
+ }
+,{ 
+"exchangedate":"30.09.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.576,"units":1,"rate_per_unit":26.576,"group":"1","calcdate":"29.09.2021"
+ }
+,{ 
+"exchangedate":"01.10.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.6175,"units":1,"rate_per_unit":26.6175,"group":"1","calcdate":"30.09.2021"
+ }
+,{ 
+"exchangedate":"02.10.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.6175,"units":1,"rate_per_unit":26.6175,"group":"1","calcdate":"30.09.2021"
+ }
+,{ 
+"exchangedate":"03.10.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.6175,"units":1,"rate_per_unit":26.6175,"group":"1","calcdate":"30.09.2021"
+ }
+,{ 
+"exchangedate":"04.10.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.61,"units":1,"rate_per_unit":26.61,"group":"1","calcdate":"01.10.2021"
+ }
+,{ 
+"exchangedate":"05.10.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.5722,"units":1,"rate_per_unit":26.5722,"group":"1","calcdate":"04.10.2021"
+ }
+,{ 
+"exchangedate":"06.10.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.4244,"units":1,"rate_per_unit":26.4244,"group":"1","calcdate":"05.10.2021"
+ }
+,{ 
+"exchangedate":"07.10.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.3503,"units":1,"rate_per_unit":26.3503,"group":"1","calcdate":"06.10.2021"
+ }
+,{ 
+"exchangedate":"08.10.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.3314,"units":1,"rate_per_unit":26.3314,"group":"1","calcdate":"07.10.2021"
+ }
+,{ 
+"exchangedate":"09.10.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.3314,"units":1,"rate_per_unit":26.3314,"group":"1","calcdate":"07.10.2021"
+ }
+,{ 
+"exchangedate":"10.10.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.3314,"units":1,"rate_per_unit":26.3314,"group":"1","calcdate":"07.10.2021"
+ }
+,{ 
+"exchangedate":"11.10.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.3515,"units":1,"rate_per_unit":26.3515,"group":"1","calcdate":"08.10.2021"
+ }
+,{ 
+"exchangedate":"12.10.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.36,"units":1,"rate_per_unit":26.36,"group":"1","calcdate":"11.10.2021"
+ }
+,{ 
+"exchangedate":"13.10.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.349,"units":1,"rate_per_unit":26.349,"group":"1","calcdate":"12.10.2021"
+ }
+,{ 
+"exchangedate":"14.10.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.349,"units":1,"rate_per_unit":26.349,"group":"1","calcdate":"12.10.2021"
+ }
+,{ 
+"exchangedate":"15.10.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.349,"units":1,"rate_per_unit":26.349,"group":"1","calcdate":"12.10.2021"
+ }
+,{ 
+"exchangedate":"16.10.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.349,"units":1,"rate_per_unit":26.349,"group":"1","calcdate":"12.10.2021"
+ }
+,{ 
+"exchangedate":"17.10.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.349,"units":1,"rate_per_unit":26.349,"group":"1","calcdate":"12.10.2021"
+ }
+,{ 
+"exchangedate":"18.10.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.3419,"units":1,"rate_per_unit":26.3419,"group":"1","calcdate":"13.10.2021"
+ }
+,{ 
+"exchangedate":"19.10.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.3356,"units":1,"rate_per_unit":26.3356,"group":"1","calcdate":"18.10.2021"
+ }
+,{ 
+"exchangedate":"20.10.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.272,"units":1,"rate_per_unit":26.272,"group":"1","calcdate":"19.10.2021"
+ }
+,{ 
+"exchangedate":"21.10.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.2078,"units":1,"rate_per_unit":26.2078,"group":"1","calcdate":"20.10.2021"
+ }
+,{ 
+"exchangedate":"22.10.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.2016,"units":1,"rate_per_unit":26.2016,"group":"1","calcdate":"21.10.2021"
+ }
+,{ 
+"exchangedate":"23.10.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.2918,"units":1,"rate_per_unit":26.2918,"group":"1","calcdate":"22.10.2021"
+ }
+,{ 
+"exchangedate":"24.10.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.2918,"units":1,"rate_per_unit":26.2918,"group":"1","calcdate":"22.10.2021"
+ }
+,{ 
+"exchangedate":"25.10.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.2918,"units":1,"rate_per_unit":26.2918,"group":"1","calcdate":"23.10.2021"
+ }
+,{ 
+"exchangedate":"26.10.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.3509,"units":1,"rate_per_unit":26.3509,"group":"1","calcdate":"25.10.2021"
+ }
+,{ 
+"exchangedate":"27.10.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.419,"units":1,"rate_per_unit":26.419,"group":"1","calcdate":"26.10.2021"
+ }
+,{ 
+"exchangedate":"28.10.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.3712,"units":1,"rate_per_unit":26.3712,"group":"1","calcdate":"27.10.2021"
+ }
+,{ 
+"exchangedate":"29.10.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.3265,"units":1,"rate_per_unit":26.3265,"group":"1","calcdate":"28.10.2021"
+ }
+,{ 
+"exchangedate":"30.10.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.3265,"units":1,"rate_per_unit":26.3265,"group":"1","calcdate":"28.10.2021"
+ }
+,{ 
+"exchangedate":"31.10.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.3265,"units":1,"rate_per_unit":26.3265,"group":"1","calcdate":"28.10.2021"
+ }
+,{ 
+"exchangedate":"01.11.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.2767,"units":1,"rate_per_unit":26.2767,"group":"1","calcdate":"29.10.2021"
+ }
+,{ 
+"exchangedate":"02.11.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.2933,"units":1,"rate_per_unit":26.2933,"group":"1","calcdate":"01.11.2021"
+ }
+,{ 
+"exchangedate":"03.11.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.2904,"units":1,"rate_per_unit":26.2904,"group":"1","calcdate":"02.11.2021"
+ }
+,{ 
+"exchangedate":"04.11.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.2431,"units":1,"rate_per_unit":26.2431,"group":"1","calcdate":"03.11.2021"
+ }
+,{ 
+"exchangedate":"05.11.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.19,"units":1,"rate_per_unit":26.19,"group":"1","calcdate":"04.11.2021"
+ }
+,{ 
+"exchangedate":"06.11.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.19,"units":1,"rate_per_unit":26.19,"group":"1","calcdate":"04.11.2021"
+ }
+,{ 
+"exchangedate":"07.11.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.19,"units":1,"rate_per_unit":26.19,"group":"1","calcdate":"04.11.2021"
+ }
+,{ 
+"exchangedate":"08.11.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.102,"units":1,"rate_per_unit":26.102,"group":"1","calcdate":"05.11.2021"
+ }
+,{ 
+"exchangedate":"09.11.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.0806,"units":1,"rate_per_unit":26.0806,"group":"1","calcdate":"08.11.2021"
+ }
+,{ 
+"exchangedate":"10.11.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.0927,"units":1,"rate_per_unit":26.0927,"group":"1","calcdate":"09.11.2021"
+ }
+,{ 
+"exchangedate":"11.11.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.0575,"units":1,"rate_per_unit":26.0575,"group":"1","calcdate":"10.11.2021"
+ }
+,{ 
+"exchangedate":"12.11.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.1022,"units":1,"rate_per_unit":26.1022,"group":"1","calcdate":"11.11.2021"
+ }
+,{ 
+"exchangedate":"13.11.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.1022,"units":1,"rate_per_unit":26.1022,"group":"1","calcdate":"11.11.2021"
+ }
+,{ 
+"exchangedate":"14.11.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.1022,"units":1,"rate_per_unit":26.1022,"group":"1","calcdate":"11.11.2021"
+ }
+,{ 
+"exchangedate":"15.11.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.1107,"units":1,"rate_per_unit":26.1107,"group":"1","calcdate":"12.11.2021"
+ }
+,{ 
+"exchangedate":"16.11.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.3371,"units":1,"rate_per_unit":26.3371,"group":"1","calcdate":"15.11.2021"
+ }
+,{ 
+"exchangedate":"17.11.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.4133,"units":1,"rate_per_unit":26.4133,"group":"1","calcdate":"16.11.2021"
+ }
+,{ 
+"exchangedate":"18.11.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.5147,"units":1,"rate_per_unit":26.5147,"group":"1","calcdate":"17.11.2021"
+ }
+,{ 
+"exchangedate":"19.11.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.4427,"units":1,"rate_per_unit":26.4427,"group":"1","calcdate":"18.11.2021"
+ }
+,{ 
+"exchangedate":"20.11.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.4427,"units":1,"rate_per_unit":26.4427,"group":"1","calcdate":"18.11.2021"
+ }
+,{ 
+"exchangedate":"21.11.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.4427,"units":1,"rate_per_unit":26.4427,"group":"1","calcdate":"18.11.2021"
+ }
+,{ 
+"exchangedate":"22.11.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.5694,"units":1,"rate_per_unit":26.5694,"group":"1","calcdate":"19.11.2021"
+ }
+,{ 
+"exchangedate":"23.11.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.6588,"units":1,"rate_per_unit":26.6588,"group":"1","calcdate":"22.11.2021"
+ }
+,{ 
+"exchangedate":"24.11.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.8604,"units":1,"rate_per_unit":26.8604,"group":"1","calcdate":"23.11.2021"
+ }
+,{ 
+"exchangedate":"25.11.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.9273,"units":1,"rate_per_unit":26.9273,"group":"1","calcdate":"24.11.2021"
+ }
+,{ 
+"exchangedate":"26.11.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.0256,"units":1,"rate_per_unit":27.0256,"group":"1","calcdate":"25.11.2021"
+ }
+,{ 
+"exchangedate":"27.11.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.0256,"units":1,"rate_per_unit":27.0256,"group":"1","calcdate":"25.11.2021"
+ }
+,{ 
+"exchangedate":"28.11.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.0256,"units":1,"rate_per_unit":27.0256,"group":"1","calcdate":"25.11.2021"
+ }
+,{ 
+"exchangedate":"29.11.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.1033,"units":1,"rate_per_unit":27.1033,"group":"1","calcdate":"26.11.2021"
+ }
+,{ 
+"exchangedate":"30.11.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.1739,"units":1,"rate_per_unit":27.1739,"group":"1","calcdate":"29.11.2021"
+ }
+,{ 
+"exchangedate":"01.12.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2142,"units":1,"rate_per_unit":27.2142,"group":"1","calcdate":"30.11.2021"
+ }
+,{ 
+"exchangedate":"02.12.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2296,"units":1,"rate_per_unit":27.2296,"group":"1","calcdate":"01.12.2021"
+ }
+,{ 
+"exchangedate":"03.12.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2933,"units":1,"rate_per_unit":27.2933,"group":"1","calcdate":"02.12.2021"
+ }
+,{ 
+"exchangedate":"04.12.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2933,"units":1,"rate_per_unit":27.2933,"group":"1","calcdate":"02.12.2021"
+ }
+,{ 
+"exchangedate":"05.12.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2933,"units":1,"rate_per_unit":27.2933,"group":"1","calcdate":"02.12.2021"
+ }
+,{ 
+"exchangedate":"06.12.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2981,"units":1,"rate_per_unit":27.2981,"group":"1","calcdate":"03.12.2021"
+ }
+,{ 
+"exchangedate":"07.12.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.3791,"units":1,"rate_per_unit":27.3791,"group":"1","calcdate":"06.12.2021"
+ }
+,{ 
+"exchangedate":"08.12.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.3317,"units":1,"rate_per_unit":27.3317,"group":"1","calcdate":"07.12.2021"
+ }
+,{ 
+"exchangedate":"09.12.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2167,"units":1,"rate_per_unit":27.2167,"group":"1","calcdate":"08.12.2021"
+ }
+,{ 
+"exchangedate":"10.12.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.1013,"units":1,"rate_per_unit":27.1013,"group":"1","calcdate":"09.12.2021"
+ }
+,{ 
+"exchangedate":"11.12.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.1013,"units":1,"rate_per_unit":27.1013,"group":"1","calcdate":"09.12.2021"
+ }
+,{ 
+"exchangedate":"12.12.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.1013,"units":1,"rate_per_unit":27.1013,"group":"1","calcdate":"09.12.2021"
+ }
+,{ 
+"exchangedate":"13.12.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.0241,"units":1,"rate_per_unit":27.0241,"group":"1","calcdate":"10.12.2021"
+ }
+,{ 
+"exchangedate":"14.12.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.8846,"units":1,"rate_per_unit":26.8846,"group":"1","calcdate":"13.12.2021"
+ }
+,{ 
+"exchangedate":"15.12.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":26.9985,"units":1,"rate_per_unit":26.9985,"group":"1","calcdate":"14.12.2021"
+ }
+,{ 
+"exchangedate":"16.12.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.196,"units":1,"rate_per_unit":27.196,"group":"1","calcdate":"15.12.2021"
+ }
+,{ 
+"exchangedate":"17.12.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.1929,"units":1,"rate_per_unit":27.1929,"group":"1","calcdate":"16.12.2021"
+ }
+,{ 
+"exchangedate":"18.12.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.1929,"units":1,"rate_per_unit":27.1929,"group":"1","calcdate":"16.12.2021"
+ }
+,{ 
+"exchangedate":"19.12.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.1929,"units":1,"rate_per_unit":27.1929,"group":"1","calcdate":"16.12.2021"
+ }
+,{ 
+"exchangedate":"20.12.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2483,"units":1,"rate_per_unit":27.2483,"group":"1","calcdate":"17.12.2021"
+ }
+,{ 
+"exchangedate":"21.12.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2846,"units":1,"rate_per_unit":27.2846,"group":"1","calcdate":"20.12.2021"
+ }
+,{ 
+"exchangedate":"22.12.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2598,"units":1,"rate_per_unit":27.2598,"group":"1","calcdate":"21.12.2021"
+ }
+,{ 
+"exchangedate":"23.12.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2508,"units":1,"rate_per_unit":27.2508,"group":"1","calcdate":"22.12.2021"
+ }
+,{ 
+"exchangedate":"24.12.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2747,"units":1,"rate_per_unit":27.2747,"group":"1","calcdate":"23.12.2021"
+ }
+,{ 
+"exchangedate":"25.12.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2747,"units":1,"rate_per_unit":27.2747,"group":"1","calcdate":"23.12.2021"
+ }
+,{ 
+"exchangedate":"26.12.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2747,"units":1,"rate_per_unit":27.2747,"group":"1","calcdate":"23.12.2021"
+ }
+,{ 
+"exchangedate":"27.12.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2747,"units":1,"rate_per_unit":27.2747,"group":"1","calcdate":"23.12.2021"
+ }
+,{ 
+"exchangedate":"28.12.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2306,"units":1,"rate_per_unit":27.2306,"group":"1","calcdate":"24.12.2021"
+ }
+,{ 
+"exchangedate":"29.12.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2235,"units":1,"rate_per_unit":27.2235,"group":"1","calcdate":"28.12.2021"
+ }
+,{ 
+"exchangedate":"30.12.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2077,"units":1,"rate_per_unit":27.2077,"group":"1","calcdate":"29.12.2021"
+ }
+,{ 
+"exchangedate":"31.12.2021","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2782,"units":1,"rate_per_unit":27.2782,"group":"1","calcdate":"30.12.2021"
+ }
+,{ 
+"exchangedate":"01.01.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2782,"units":1,"rate_per_unit":27.2782,"group":"1","calcdate":"30.12.2021"
+ }
+,{ 
+"exchangedate":"02.01.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2782,"units":1,"rate_per_unit":27.2782,"group":"1","calcdate":"30.12.2021"
+ }
+,{ 
+"exchangedate":"03.01.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2782,"units":1,"rate_per_unit":27.2782,"group":"1","calcdate":"30.12.2021"
+ }
+,{ 
+"exchangedate":"04.01.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2782,"units":1,"rate_per_unit":27.2782,"group":"1","calcdate":"30.12.2021"
+ }
+,{ 
+"exchangedate":"05.01.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.2976,"units":1,"rate_per_unit":27.2976,"group":"1","calcdate":"04.01.2022"
+ }
+,{ 
+"exchangedate":"06.01.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.4551,"units":1,"rate_per_unit":27.4551,"group":"1","calcdate":"05.01.2022"
+ }
+,{ 
+"exchangedate":"07.01.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.4551,"units":1,"rate_per_unit":27.4551,"group":"1","calcdate":"05.01.2022"
+ }
+,{ 
+"exchangedate":"08.01.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.4551,"units":1,"rate_per_unit":27.4551,"group":"1","calcdate":"05.01.2022"
+ }
+,{ 
+"exchangedate":"09.01.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.4551,"units":1,"rate_per_unit":27.4551,"group":"1","calcdate":"05.01.2022"
+ }
+,{ 
+"exchangedate":"10.01.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.4977,"units":1,"rate_per_unit":27.4977,"group":"1","calcdate":"06.01.2022"
+ }
+,{ 
+"exchangedate":"11.01.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.4998,"units":1,"rate_per_unit":27.4998,"group":"1","calcdate":"10.01.2022"
+ }
+,{ 
+"exchangedate":"12.01.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.5093,"units":1,"rate_per_unit":27.5093,"group":"1","calcdate":"11.01.2022"
+ }
+,{ 
+"exchangedate":"13.01.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.7073,"units":1,"rate_per_unit":27.7073,"group":"1","calcdate":"12.01.2022"
+ }
+,{ 
+"exchangedate":"14.01.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.7372,"units":1,"rate_per_unit":27.7372,"group":"1","calcdate":"13.01.2022"
+ }
+,{ 
+"exchangedate":"15.01.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.7372,"units":1,"rate_per_unit":27.7372,"group":"1","calcdate":"13.01.2022"
+ }
+,{ 
+"exchangedate":"16.01.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.7372,"units":1,"rate_per_unit":27.7372,"group":"1","calcdate":"13.01.2022"
+ }
+,{ 
+"exchangedate":"17.01.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.9514,"units":1,"rate_per_unit":27.9514,"group":"1","calcdate":"14.01.2022"
+ }
+,{ 
+"exchangedate":"18.01.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.122,"units":1,"rate_per_unit":28.122,"group":"1","calcdate":"17.01.2022"
+ }
+,{ 
+"exchangedate":"19.01.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.4101,"units":1,"rate_per_unit":28.4101,"group":"1","calcdate":"18.01.2022"
+ }
+,{ 
+"exchangedate":"20.01.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.4038,"units":1,"rate_per_unit":28.4038,"group":"1","calcdate":"19.01.2022"
+ }
+,{ 
+"exchangedate":"21.01.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.3236,"units":1,"rate_per_unit":28.3236,"group":"1","calcdate":"20.01.2022"
+ }
+,{ 
+"exchangedate":"22.01.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.3236,"units":1,"rate_per_unit":28.3236,"group":"1","calcdate":"20.01.2022"
+ }
+,{ 
+"exchangedate":"23.01.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.3236,"units":1,"rate_per_unit":28.3236,"group":"1","calcdate":"20.01.2022"
+ }
+,{ 
+"exchangedate":"24.01.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.3181,"units":1,"rate_per_unit":28.3181,"group":"1","calcdate":"21.01.2022"
+ }
+,{ 
+"exchangedate":"25.01.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.3749,"units":1,"rate_per_unit":28.3749,"group":"1","calcdate":"24.01.2022"
+ }
+,{ 
+"exchangedate":"26.01.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.6658,"units":1,"rate_per_unit":28.6658,"group":"1","calcdate":"25.01.2022"
+ }
+,{ 
+"exchangedate":"27.01.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.7984,"units":1,"rate_per_unit":28.7984,"group":"1","calcdate":"26.01.2022"
+ }
+,{ 
+"exchangedate":"28.01.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.9879,"units":1,"rate_per_unit":28.9879,"group":"1","calcdate":"27.01.2022"
+ }
+,{ 
+"exchangedate":"29.01.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.9879,"units":1,"rate_per_unit":28.9879,"group":"1","calcdate":"27.01.2022"
+ }
+,{ 
+"exchangedate":"30.01.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.9879,"units":1,"rate_per_unit":28.9879,"group":"1","calcdate":"27.01.2022"
+ }
+,{ 
+"exchangedate":"31.01.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.7839,"units":1,"rate_per_unit":28.7839,"group":"1","calcdate":"28.01.2022"
+ }
+,{ 
+"exchangedate":"01.02.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.4555,"units":1,"rate_per_unit":28.4555,"group":"1","calcdate":"31.01.2022"
+ }
+,{ 
+"exchangedate":"02.02.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.318,"units":1,"rate_per_unit":28.318,"group":"1","calcdate":"01.02.2022"
+ }
+,{ 
+"exchangedate":"03.02.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.3876,"units":1,"rate_per_unit":28.3876,"group":"1","calcdate":"02.02.2022"
+ }
+,{ 
+"exchangedate":"04.02.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.2701,"units":1,"rate_per_unit":28.2701,"group":"1","calcdate":"03.02.2022"
+ }
+,{ 
+"exchangedate":"05.02.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.2701,"units":1,"rate_per_unit":28.2701,"group":"1","calcdate":"03.02.2022"
+ }
+,{ 
+"exchangedate":"06.02.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.2701,"units":1,"rate_per_unit":28.2701,"group":"1","calcdate":"03.02.2022"
+ }
+,{ 
+"exchangedate":"07.02.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.1468,"units":1,"rate_per_unit":28.1468,"group":"1","calcdate":"04.02.2022"
+ }
+,{ 
+"exchangedate":"08.02.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.9998,"units":1,"rate_per_unit":27.9998,"group":"1","calcdate":"07.02.2022"
+ }
+,{ 
+"exchangedate":"09.02.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.9619,"units":1,"rate_per_unit":27.9619,"group":"1","calcdate":"08.02.2022"
+ }
+,{ 
+"exchangedate":"10.02.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.9795,"units":1,"rate_per_unit":27.9795,"group":"1","calcdate":"09.02.2022"
+ }
+,{ 
+"exchangedate":"11.02.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8756,"units":1,"rate_per_unit":27.8756,"group":"1","calcdate":"10.02.2022"
+ }
+,{ 
+"exchangedate":"12.02.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8756,"units":1,"rate_per_unit":27.8756,"group":"1","calcdate":"10.02.2022"
+ }
+,{ 
+"exchangedate":"13.02.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":27.8756,"units":1,"rate_per_unit":27.8756,"group":"1","calcdate":"10.02.2022"
+ }
+,{ 
+"exchangedate":"14.02.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.0346,"units":1,"rate_per_unit":28.0346,"group":"1","calcdate":"11.02.2022"
+ }
+,{ 
+"exchangedate":"15.02.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.5355,"units":1,"rate_per_unit":28.5355,"group":"1","calcdate":"14.02.2022"
+ }
+,{ 
+"exchangedate":"16.02.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.2424,"units":1,"rate_per_unit":28.2424,"group":"1","calcdate":"15.02.2022"
+ }
+,{ 
+"exchangedate":"17.02.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.0943,"units":1,"rate_per_unit":28.0943,"group":"1","calcdate":"16.02.2022"
+ }
+,{ 
+"exchangedate":"18.02.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.3,"units":1,"rate_per_unit":28.3,"group":"1","calcdate":"17.02.2022"
+ }
+,{ 
+"exchangedate":"19.02.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.3,"units":1,"rate_per_unit":28.3,"group":"1","calcdate":"17.02.2022"
+ }
+,{ 
+"exchangedate":"20.02.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.3,"units":1,"rate_per_unit":28.3,"group":"1","calcdate":"17.02.2022"
+ }
+,{ 
+"exchangedate":"21.02.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.3428,"units":1,"rate_per_unit":28.3428,"group":"1","calcdate":"18.02.2022"
+ }
+,{ 
+"exchangedate":"22.02.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.4846,"units":1,"rate_per_unit":28.4846,"group":"1","calcdate":"21.02.2022"
+ }
+,{ 
+"exchangedate":"23.02.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":28.9877,"units":1,"rate_per_unit":28.9877,"group":"1","calcdate":"22.02.2022"
+ }
+,{ 
+"exchangedate":"24.02.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"23.02.2022"
+ }
+,{ 
+"exchangedate":"25.02.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"24.02.2022"
+ }
+,{ 
+"exchangedate":"26.02.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"24.02.2022"
+ }
+,{ 
+"exchangedate":"27.02.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"24.02.2022"
+ }
+,{ 
+"exchangedate":"28.02.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"25.02.2022"
+ }
+,{ 
+"exchangedate":"01.03.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"28.02.2022"
+ }
+,{ 
+"exchangedate":"02.03.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"01.03.2022"
+ }
+,{ 
+"exchangedate":"03.03.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"02.03.2022"
+ }
+,{ 
+"exchangedate":"04.03.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"03.03.2022"
+ }
+,{ 
+"exchangedate":"05.03.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"03.03.2022"
+ }
+,{ 
+"exchangedate":"06.03.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"03.03.2022"
+ }
+,{ 
+"exchangedate":"07.03.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"04.03.2022"
+ }
+,{ 
+"exchangedate":"08.03.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"07.03.2022"
+ }
+,{ 
+"exchangedate":"09.03.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"08.03.2022"
+ }
+,{ 
+"exchangedate":"10.03.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"09.03.2022"
+ }
+,{ 
+"exchangedate":"11.03.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"10.03.2022"
+ }
+,{ 
+"exchangedate":"12.03.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"11.03.2022"
+ }
+,{ 
+"exchangedate":"13.03.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"11.03.2022"
+ }
+,{ 
+"exchangedate":"14.03.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"12.03.2022"
+ }
+,{ 
+"exchangedate":"15.03.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"14.03.2022"
+ }
+,{ 
+"exchangedate":"16.03.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"15.03.2022"
+ }
+,{ 
+"exchangedate":"17.03.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"16.03.2022"
+ }
+,{ 
+"exchangedate":"18.03.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"17.03.2022"
+ }
+,{ 
+"exchangedate":"19.03.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"17.03.2022"
+ }
+,{ 
+"exchangedate":"20.03.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"17.03.2022"
+ }
+,{ 
+"exchangedate":"21.03.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"18.03.2022"
+ }
+,{ 
+"exchangedate":"22.03.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"21.03.2022"
+ }
+,{ 
+"exchangedate":"23.03.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"22.03.2022"
+ }
+,{ 
+"exchangedate":"24.03.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"23.03.2022"
+ }
+,{ 
+"exchangedate":"25.03.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"24.03.2022"
+ }
+,{ 
+"exchangedate":"26.03.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"24.03.2022"
+ }
+,{ 
+"exchangedate":"27.03.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"24.03.2022"
+ }
+,{ 
+"exchangedate":"28.03.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"25.03.2022"
+ }
+,{ 
+"exchangedate":"29.03.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"28.03.2022"
+ }
+,{ 
+"exchangedate":"30.03.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"29.03.2022"
+ }
+,{ 
+"exchangedate":"31.03.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"30.03.2022"
+ }
+,{ 
+"exchangedate":"01.04.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"31.03.2022"
+ }
+,{ 
+"exchangedate":"02.04.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"31.03.2022"
+ }
+,{ 
+"exchangedate":"03.04.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"31.03.2022"
+ }
+,{ 
+"exchangedate":"04.04.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"01.04.2022"
+ }
+,{ 
+"exchangedate":"05.04.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"04.04.2022"
+ }
+,{ 
+"exchangedate":"06.04.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"05.04.2022"
+ }
+,{ 
+"exchangedate":"07.04.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"06.04.2022"
+ }
+,{ 
+"exchangedate":"08.04.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"07.04.2022"
+ }
+,{ 
+"exchangedate":"09.04.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"07.04.2022"
+ }
+,{ 
+"exchangedate":"10.04.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"07.04.2022"
+ }
+,{ 
+"exchangedate":"11.04.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"08.04.2022"
+ }
+,{ 
+"exchangedate":"12.04.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"11.04.2022"
+ }
+,{ 
+"exchangedate":"13.04.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"12.04.2022"
+ }
+,{ 
+"exchangedate":"14.04.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"13.04.2022"
+ }
+,{ 
+"exchangedate":"15.04.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"14.04.2022"
+ }
+,{ 
+"exchangedate":"16.04.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"14.04.2022"
+ }
+,{ 
+"exchangedate":"17.04.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"14.04.2022"
+ }
+,{ 
+"exchangedate":"18.04.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"15.04.2022"
+ }
+,{ 
+"exchangedate":"19.04.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"18.04.2022"
+ }
+,{ 
+"exchangedate":"20.04.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"19.04.2022"
+ }
+,{ 
+"exchangedate":"21.04.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"20.04.2022"
+ }
+,{ 
+"exchangedate":"22.04.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"21.04.2022"
+ }
+,{ 
+"exchangedate":"23.04.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"21.04.2022"
+ }
+,{ 
+"exchangedate":"24.04.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"21.04.2022"
+ }
+,{ 
+"exchangedate":"25.04.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"22.04.2022"
+ }
+,{ 
+"exchangedate":"26.04.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"25.04.2022"
+ }
+,{ 
+"exchangedate":"27.04.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"26.04.2022"
+ }
+,{ 
+"exchangedate":"28.04.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"27.04.2022"
+ }
+,{ 
+"exchangedate":"29.04.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"28.04.2022"
+ }
+,{ 
+"exchangedate":"30.04.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"28.04.2022"
+ }
+,{ 
+"exchangedate":"01.05.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"28.04.2022"
+ }
+,{ 
+"exchangedate":"02.05.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"29.04.2022"
+ }
+,{ 
+"exchangedate":"03.05.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"02.05.2022"
+ }
+,{ 
+"exchangedate":"04.05.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"03.05.2022"
+ }
+,{ 
+"exchangedate":"05.05.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"04.05.2022"
+ }
+,{ 
+"exchangedate":"06.05.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"05.05.2022"
+ }
+,{ 
+"exchangedate":"07.05.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"05.05.2022"
+ }
+,{ 
+"exchangedate":"08.05.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"05.05.2022"
+ }
+,{ 
+"exchangedate":"09.05.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"06.05.2022"
+ }
+,{ 
+"exchangedate":"10.05.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"09.05.2022"
+ }
+,{ 
+"exchangedate":"11.05.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"10.05.2022"
+ }
+,{ 
+"exchangedate":"12.05.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"11.05.2022"
+ }
+,{ 
+"exchangedate":"13.05.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"12.05.2022"
+ }
+,{ 
+"exchangedate":"14.05.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"12.05.2022"
+ }
+,{ 
+"exchangedate":"15.05.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"12.05.2022"
+ }
+,{ 
+"exchangedate":"16.05.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"13.05.2022"
+ }
+,{ 
+"exchangedate":"17.05.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"16.05.2022"
+ }
+,{ 
+"exchangedate":"18.05.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"17.05.2022"
+ }
+,{ 
+"exchangedate":"19.05.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"18.05.2022"
+ }
+,{ 
+"exchangedate":"20.05.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"19.05.2022"
+ }
+,{ 
+"exchangedate":"21.05.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"19.05.2022"
+ }
+,{ 
+"exchangedate":"22.05.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"19.05.2022"
+ }
+,{ 
+"exchangedate":"23.05.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"20.05.2022"
+ }
+,{ 
+"exchangedate":"24.05.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"23.05.2022"
+ }
+,{ 
+"exchangedate":"25.05.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"24.05.2022"
+ }
+,{ 
+"exchangedate":"26.05.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"25.05.2022"
+ }
+,{ 
+"exchangedate":"27.05.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"26.05.2022"
+ }
+,{ 
+"exchangedate":"28.05.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"26.05.2022"
+ }
+,{ 
+"exchangedate":"29.05.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"26.05.2022"
+ }
+,{ 
+"exchangedate":"30.05.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"27.05.2022"
+ }
+,{ 
+"exchangedate":"31.05.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"30.05.2022"
+ }
+,{ 
+"exchangedate":"01.06.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"31.05.2022"
+ }
+,{ 
+"exchangedate":"02.06.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"01.06.2022"
+ }
+,{ 
+"exchangedate":"03.06.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"02.06.2022"
+ }
+,{ 
+"exchangedate":"04.06.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"02.06.2022"
+ }
+,{ 
+"exchangedate":"05.06.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"02.06.2022"
+ }
+,{ 
+"exchangedate":"06.06.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"03.06.2022"
+ }
+,{ 
+"exchangedate":"07.06.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"06.06.2022"
+ }
+,{ 
+"exchangedate":"08.06.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"07.06.2022"
+ }
+,{ 
+"exchangedate":"09.06.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"08.06.2022"
+ }
+,{ 
+"exchangedate":"10.06.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"09.06.2022"
+ }
+,{ 
+"exchangedate":"11.06.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"09.06.2022"
+ }
+,{ 
+"exchangedate":"12.06.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"09.06.2022"
+ }
+,{ 
+"exchangedate":"13.06.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"10.06.2022"
+ }
+,{ 
+"exchangedate":"14.06.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"13.06.2022"
+ }
+,{ 
+"exchangedate":"15.06.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"14.06.2022"
+ }
+,{ 
+"exchangedate":"16.06.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"15.06.2022"
+ }
+,{ 
+"exchangedate":"17.06.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"16.06.2022"
+ }
+,{ 
+"exchangedate":"18.06.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"16.06.2022"
+ }
+,{ 
+"exchangedate":"19.06.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"16.06.2022"
+ }
+,{ 
+"exchangedate":"20.06.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"17.06.2022"
+ }
+,{ 
+"exchangedate":"21.06.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"20.06.2022"
+ }
+,{ 
+"exchangedate":"22.06.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"21.06.2022"
+ }
+,{ 
+"exchangedate":"23.06.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"22.06.2022"
+ }
+,{ 
+"exchangedate":"24.06.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"23.06.2022"
+ }
+,{ 
+"exchangedate":"25.06.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"23.06.2022"
+ }
+,{ 
+"exchangedate":"26.06.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"23.06.2022"
+ }
+,{ 
+"exchangedate":"27.06.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"24.06.2022"
+ }
+,{ 
+"exchangedate":"28.06.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"27.06.2022"
+ }
+,{ 
+"exchangedate":"29.06.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"28.06.2022"
+ }
+,{ 
+"exchangedate":"30.06.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"29.06.2022"
+ }
+,{ 
+"exchangedate":"01.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"30.06.2022"
+ }
+,{ 
+"exchangedate":"02.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"30.06.2022"
+ }
+,{ 
+"exchangedate":"03.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"30.06.2022"
+ }
+,{ 
+"exchangedate":"04.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"01.07.2022"
+ }
+,{ 
+"exchangedate":"05.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"04.07.2022"
+ }
+,{ 
+"exchangedate":"06.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"05.07.2022"
+ }
+,{ 
+"exchangedate":"07.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"06.07.2022"
+ }
+,{ 
+"exchangedate":"08.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"07.07.2022"
+ }
+,{ 
+"exchangedate":"09.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"07.07.2022"
+ }
+,{ 
+"exchangedate":"10.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"07.07.2022"
+ }
+,{ 
+"exchangedate":"11.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"08.07.2022"
+ }
+,{ 
+"exchangedate":"12.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"11.07.2022"
+ }
+,{ 
+"exchangedate":"13.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"12.07.2022"
+ }
+,{ 
+"exchangedate":"14.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"13.07.2022"
+ }
+,{ 
+"exchangedate":"15.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"14.07.2022"
+ }
+,{ 
+"exchangedate":"16.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"14.07.2022"
+ }
+,{ 
+"exchangedate":"17.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"14.07.2022"
+ }
+,{ 
+"exchangedate":"18.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"15.07.2022"
+ }
+,{ 
+"exchangedate":"19.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"18.07.2022"
+ }
+]
