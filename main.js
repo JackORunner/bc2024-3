@@ -5,6 +5,7 @@ program
     .requiredOption('-i, --input <path>', 'required option, path for file that would be readed')
     .option('-o, --output <path>', ' path to the file with output')
     .option('-d, --display', ' displays file into console')
+    .option('-ds, --displayrez', 'displays the task info')
 
 program.parse(process.argv);
 
@@ -25,6 +26,7 @@ if (!options.output && !options.display) {
 };
 
 const data = fs.readFileSync(options.input, 'utf8');
+const parsedData = JSON.parse(data)
 
 
 if (options.display) {
@@ -36,3 +38,14 @@ if (options.output) {
   console.log(`File has been written to ${options.output}`);
 }
 
+let maxRate = 0; // Початкове значення максимального курсу
+
+for (let i = 0; i < parsedData.length; i++) {
+  if (parsedData[i].rate > maxRate) {
+    maxRate = parsedData[i].rate; // Оновлюємо максимальний курс, якщо знайдено більше значення
+  }
+}
+
+if (options.displayrez) {
+    console.log(`Максимальний курс: ${maxRate}`);
+  }
